@@ -15,7 +15,7 @@ suppressWarnings({
   # patch plots -----------------
 
   a <- plot_figure_2A()
-  b <- plot_figure_2B()
+  b <- plot_figure_2B_v2()
 
   multi <- (free(b$f2b) | free(a)) +
     plot_layout(widths = c(1, 1.25)) +
@@ -48,7 +48,7 @@ suppressWarnings({
     )
   }
 
-  save_plot(multi, "./docs/figures/figure_2", 16, 8)
+  save_plot(multi, "./docs/figures/figure_2_v2", 16, 8)
   # save_plot(multi2, "./docs/figures/figure_2_v2", 16, 8)
 })
 
