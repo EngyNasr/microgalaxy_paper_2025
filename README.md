@@ -1,8 +1,8 @@
-# Scripts and data associated with Microbiology Galaxy Lab and microGalaxy 2025 Paper
+# Scripts and data associated with Microbiology Galaxy Lab (MGL) and microGalaxy 2025 Paper
 
 [![DOI](https://zenodo.org/badge/754032685.svg)](https://doi.org/10.5281/zenodo.15088382)
 
-This repository includes all data and the scripts needed to produce figures in the paper along with the resulted figures
+This repository includes all data and the scripts needed to produce figures in the paper, along with the resulting figures
 
 # Requirements
 
@@ -38,12 +38,24 @@ This repository includes all data and the scripts needed to produce figures in t
     $ bash bin/get_data.sh
     ```
   
-## Rebuild Figures
+## Rebuild figures
 
 ```{r}
 bash bin/build_figures.sh
 ```
 
+# Direct links through repository
 
+This section provides easy access to the MGL paper's figures, extended data, and supplementary materials present in this repository
 
+## Figures
 
+Go to [`docs/figures`](https://github.com/usegalaxy-eu/microbiology_galaxy_lab_paper_2025/tree/main/docs/figures)
+
+## Extended data (figures and table)
+
+Go to [`docs/extended`](https://github.com/usegalaxy-eu/microbiology_galaxy_lab_paper_2025/tree/main/docs/extended)
+
+## Supplementary materials (tables and documents)
+
+Go to [`docs/supplementary`](https://github.com/usegalaxy-eu/microbiology_galaxy_lab_paper_2025/tree/main/docs/supplementary)
