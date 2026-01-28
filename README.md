@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/754032685.svg)](https://doi.org/10.5281/zenodo.15088382)
 
-This repository includes all data and the scripts needed to produce figures in the paper, along with the resulting figures
+This repository includes all data and the scripts needed to produce figures in the paper, along with the resulting figures.
 
 # Requirements
 
@@ -44,9 +44,9 @@ This repository includes all data and the scripts needed to produce figures in t
 bash bin/build_figures.sh
 ```
 
-# Direct links through repository
+# MGL paper's figures, extended data, and supplementary materials
 
-This section provides easy access to the MGL paper's figures, extended data, and supplementary materials present in this repository
+This section provides easy access to the MGL paper's figures, extended data, and supplementary materials.
 
 ## Figures
 
