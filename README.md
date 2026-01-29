@@ -48,12 +48,10 @@ bash bin/build_figures.sh
 
 This section provides easy access to the MGL paper's figures, extended data, and supplementary materials.
 
-## Figures
+## Figures (in [`docs/figures`](docs/figures) folder)
 
-In [`docs/figures`](https://github.com/usegalaxy-eu/microbiology_galaxy_lab_paper_2025/tree/main/docs/figures) you will find the following and more:
-
-- [`Graphica abstract`](https://github.com/usegalaxy-eu/microbiology_galaxy_lab_paper_2025/blob/main/docs/figures/graphical_abstract.png)
-- [`Figure 1`](https://github.com/usegalaxy-eu/microbiology_galaxy_lab_paper_2025/blob/main/docs/figures/figure_1.png): Microbiology Galaxy Lab (MGL) interface (A) in comparison with default Galaxy interfaces on the UseGalaxy server (B, C)
+- [`Graphical abstract`](docs/figures/graphical_abstract.png)
+- [`Figure 1`](docs/figures/figure_1.png): Microbiology Galaxy Lab (MGL) interface (A) in comparison with default Galaxy interfaces on the UseGalaxy server (B, C)
 - [`Figure 2`](https://github.com/usegalaxy-eu/microbiology_galaxy_lab_paper_2025/blob/main/docs/figures/figure_2.png): Citation trends in Galaxy publications and survey results from the microbiology research community (March–September 2023)
 - [`Figure 3`](https://github.com/usegalaxy-eu/microbiology_galaxy_lab_paper_2025/blob/main/docs/figures/figure_3.png): Growth and usability of microbiology-related tool suites, training materials/tutorials, and workflows within the Galaxy ecosystem that are included in the Microbiology Galaxy Lab (MGL).
 - [`Figure 4`](https://github.com/usegalaxy-eu/microbiology_galaxy_lab_paper_2025/blob/main/docs/figures/figure_4.png): Overview of microbiological data analysis tasks with corresponding tool suites and potential analyses available on the MGL.
