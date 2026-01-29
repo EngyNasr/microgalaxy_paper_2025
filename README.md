@@ -57,7 +57,7 @@ This section provides easy access to the MGL paper's figures, extended data, and
 - [`Figure 4`](docs/figures/figure_4.png): Overview of microbiological data analysis tasks with corresponding tool suites and potential analyses available on the MGL.
 - [`Figure 5`](docs/figures/figure_5.png):  Applications of MGL tools and workflows in health, disease, and ecosystem research.
 
-## Extended data (figures and table in [`docs/extended`](docs/extended) folder)
+## Extended data (in [`docs/extended`](docs/extended) folder)
 
 - [`Extended Data Fig. 1`](docs/extended/extended_data_figure_1.png): Microbial Research Topics in Galaxy Publications.
 - [`Extended Data Fig. 2`](docs/extended/extended_data_figure_2.png): Availability of microbiology-related tool suites within the Galaxy ecosystem.
@@ -66,7 +66,7 @@ This section provides easy access to the MGL paper's figures, extended data, and
 - [`Extended Data Fig. 5`](docs/extended/extended_data_figure_5.png): Flowchart illustrating the process to select and annotate the microbiology-related publications citing the Galaxy Project major publication.
 - [`Extended Data Table 1`](docs/extended/extended_table_1.xlsx): Features and capabilities of 44 existing user-friendly microbiological data analysis platforms (non-exhaustive list).
 
-## Supplementary materials (tables and documents in [`docs/supplementary`](docs/supplementary) folder)
+## Supplementary materials (in [`docs/supplementary`](docs/supplementary) folder)
 
 - [`Supplementary Table 1`](docs/supplementary/supplementary_table_1.tsv): Anonymous results from the microbiology research community survey conducted between March and September 2023.
 - [`Supplementary Table 2`](docs/supplementary/supplementary_table_2.tsv): Overview of the 315 microbiology-related tool suites available.
