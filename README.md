@@ -65,6 +65,8 @@ This section provides easy access to the MGL paper's figures, extended data, and
 - [`Extended Data Fig. 4`](docs/extended/extended_data_figure_4.png): Usage of microbiology-related tool suites across training materials.
 - [`Extended Data Fig. 5`](docs/extended/extended_data_figure_5.png): Flowchart illustrating the process to select and annotate the microbiology-related publications citing the Galaxy Project major publication.
 - [`Extended Data Table 1`](docs/extended/extended_table_1.xlsx): Features and capabilities of 44 existing user-friendly microbiological data analysis platforms (non-exhaustive list).
+- [`Extended Data Table 2`](docs/extended/extended_data_table_2.csv): Publications citing Galaxy Project from Google Scholar.
+- [`Extended Data Table 3`](docs/extended/extended_data_table_3.csv): Major Galaxy Project publications from Google Scholar and classified as microbiology-related citations. 
 
 ## Supplementary materials (in [`docs/supplementary`](docs/supplementary) folder)
 
