@@ -105,7 +105,9 @@ plot_figure_2B_v1 <- function() {
       axis.text.x = element_text(face = "bold", size = 12),
       axis.text.y = element_text(face = "bold", size = 12),
       axis.title.x = element_text(margin = margin(t = 10), size = 12),
-      axis.title.y = element_markdown(margin = margin(r = 10), size = 12)
+      axis.title.y = element_markdown(margin = margin(r = 10), size = 12),
+      
+      plot.margin = margin(r = 50)
     ) +
     labs(x = "Year", y = "**Number of publications** citing Galaxy papers")
 
@@ -258,7 +260,9 @@ plot_figure_2B_v2 <- function() {
             axis.text.x = element_text(face = "bold", size = 12),
             axis.text.y = element_text(face = "bold", size = 12),
             axis.title.x = element_text(margin = margin(t = 10), size = 12),
-            axis.title.y = element_markdown(margin = margin(r = 10), size = 12)
+            axis.title.y = element_markdown(margin = margin(r = 10), size = 12),
+            
+            plot.margin = margin(r = 50)
         ) +
         labs(x = "Year", y = "**Number of publications** citing Galaxy papers")
     
