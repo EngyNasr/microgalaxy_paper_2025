@@ -4,6 +4,14 @@
 
 This repository includes all data and the scripts needed to produce figures in the paper, along with the resulting figures.
 
+# Running the MGL locally
+
+```bash
+docker run --rm -i -t --privileged -p 8080:80 -v ~/export.microbiology/:/export quay.io/galaxy/docker-galaxy-microbiology-lab
+```
+
+Visit the [MGL Docker development repository](https://github.com/usegalaxy-eu/docker-galaxy-microbiology-lab) for more details.
+
 # Requirements
 
 - Install [conda](https://conda.io/miniconda.html)
