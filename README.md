@@ -82,10 +82,10 @@ This section provides easy access to the MGL paper's figures, extended data, and
 
 # Reproducing citations automatic classifier manual validation
 
-Run the **Jupter Notebook:**  
+Run the **Jupyter Notebook:**  
 [`explore_publications_manual_validation.ipynb`](bin/explore_publications_manual_validation.ipynb)
 
-## Input Files
+## Input files
 
 - [`extended_data_table_3.tsv`](docs/extended/extended_data_table_3.tsv)  
   Microbiology-related publications (until 2025)
@@ -94,8 +94,8 @@ Run the **Jupter Notebook:**
 
 ## What the notebook does
 
-1. Extracts a fixed random **1% sample** of Microbiology-related publications (until 2025)  
-   (using `seed = 42` for full reproducibility)
+1. Extracts a fixed random **1% sample** of microbiology-related publications (until 2025)  
+   (using `seed = 42` for full reproducibility).
 
 2. Compares automatic and manual keyword annotations for the **1% validation subset** across:
    - **Targeted organisms**
@@ -114,13 +114,13 @@ Run the **Jupter Notebook:**
    - Micro-averaged metrics  
    - Macro-averaged metrics  
 
-## Generated Output Files
+## Generated output files
 
 - [`extended_data_table_3_random_1_percent_automatic_curated_citations.tsv`](docs/extended/extended_data_table_3_random_1_percent_automatic_curated_citations.tsv)  
-  Reproducible 1% sampled dataset
+  Reproducible 1% sampled dataset.
 
 - [`extended_data_table_3_random_1_percent_automatic_curated_citations_manual_validation_row_level_keyword_confusion.tsv`](docs/extended/extended_data_table_3_random_1_percent_automatic_curated_citations_manual_validation_row_level_keyword_confusion.tsv) 
-  Per-publication × per-category TP/FP/FN/TN results
+  Per-publication × per-category TP/FP/FN/TN results.
 
 - [`extended_data_table_3_random_1_percent_automatic_curated_citations_manual_validation_summary_keyword_confusion.tsv`](docs/extended/extended_data_table_3_random_1_percent_automatic_curated_citations_manual_validation_summary_keyword_confusion.tsv)  
-  Aggregated validation metrics per category
+  Aggregated validation metrics per category.
