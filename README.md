@@ -79,3 +79,48 @@ This section provides easy access to the MGL paper's figures, extended data, and
 - [`Supplementary Table 7`](docs/supplementary/supplementary_table_7.tsv): Overview of microbiology-related training events conducted between 2019 and 2024.
 - [`Supplementary Document 1`](docs/supplementary/supplementary_document_1.pdf): Complete list of survey questions shared with the microbiology research community via a Google Form between March and September 2023.
 - [`Supplementary Document 2`](docs/supplementary/supplementary_document_2.pdf): Template to collect detailed use cases from survey participants who expressed interest in contributing to the planned manuscript.
+
+# Reproducing citations automatic classifier manual validation
+
+Run the **Jupter Notebook:**  
+[`explore_publications_manual_validation.ipynb`](bin/explore_publications_manual_validation.ipynb)
+
+## Input Files
+
+- [`extended_data_table_3.tsv`](docs/extended/extended_data_table_3.tsv)  
+  Microbiology-related publications (until 2025)
+- [`extended_data_table_3_random_1_percent_automatic_curated_citations_manual_validation.tsv`](docs/extended/extended_data_table_3_random_1_percent_automatic_curated_citations_manual_validation.tsv)   
+  Manually annotated 1% validation subset
+
+## What the notebook does
+
+1. Extracts a fixed random **1% sample** of Microbiology-related publications (until 2025)  
+   (using `seed = 42` for full reproducibility)
+
+2. Compares automatic and manual keyword annotations for the **1% validation subset** across:
+   - **Targeted organisms**
+   - **Technical target**
+   - **Methods**
+   - **Topics**
+
+3. Computes validation metrics:
+   - True Positives (TP)  
+   - False Positives (FP)  
+   - False Negatives (FN)  
+   - True Negatives (TN)  
+   - Precision  
+   - Recall  
+   - F1-score  
+   - Micro-averaged metrics  
+   - Macro-averaged metrics  
+
+## Generated Output Files
+
+- [`extended_data_table_3_random_1_percent_automatic_curated_citations.tsv`](docs/extended/extended_data_table_3_random_1_percent_automatic_curated_citations.tsv)  
+  Reproducible 1% sampled dataset
+
+- [`extended_data_table_3_random_1_percent_automatic_curated_citations_manual_validation_row_level_keyword_confusion.tsv`](docs/extended/extended_data_table_3_random_1_percent_automatic_curated_citations_manual_validation_row_level_keyword_confusion.tsv) 
+  Per-publication × per-category TP/FP/FN/TN results
+
+- [`extended_data_table_3_random_1_percent_automatic_curated_citations_manual_validation_summary_keyword_confusion.tsv`](docs/extended/extended_data_table_3_random_1_percent_automatic_curated_citations_manual_validation_summary_keyword_confusion.tsv)  
+  Aggregated validation metrics per category
