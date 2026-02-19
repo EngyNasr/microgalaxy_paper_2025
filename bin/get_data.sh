@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# Get platform xlsx
+# Get platform tsv
 wget \
-    -O docs/extended/extended_table_1.xlsx \
-    "https://docs.google.com/spreadsheets/d/1KxWoVRvuusMiKvs0ELiKHjbbQBBshdntSW1zxB4jyXc/export?format=xlsx"
+    -O docs/extended/extended_data_table_1.tsv \
+    "https://docs.google.com/spreadsheets/d/1KxWoVRvuusMiKvs0ELiKHjbbQBBshdntSW1zxB4jyXc/export?format=tsv"
 
 # Get survey data
 wget \
