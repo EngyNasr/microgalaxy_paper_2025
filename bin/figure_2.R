@@ -72,10 +72,10 @@ suppressWarnings({
     )
   }
 
-  save_plot(multi_v1, "./docs/figures/figure_2_v1", 16, 8)
-  save_plot(multi_v2, "./docs/figures/figure_2_v2", 16, 8)
-  save_plot(multi_v3, "./docs/figures/figure_2_v3", 16, 8)
-  save_plot(multi_v4, "./docs/figures/figure_2_v4", 16, 8)
+  # save_plot(multi_v1, "./docs/figures/figure_2_v1", 16, 8)
+  # save_plot(multi_v2, "./docs/figures/figure_2_v2", 16, 8)
+  # save_plot(multi_v3, "./docs/figures/figure_2_v3", 16, 8)
+  save_plot(multi_v4, "./docs/figures/figure_2", 16, 8)
 })
 
 message("done!")
