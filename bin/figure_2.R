@@ -18,6 +18,7 @@ suppressWarnings({
   b_v1 <- plot_figure_2B_v1()
   b_v2 <- plot_figure_2B_v2()
   b_v3 <- plot_figure_2B_v3()
+  b_v4 <- plot_figure_2B_v4()
 
   multi_v1 <- (free(b_v1$f2b) | free(a)) +
     plot_layout(widths = c(1, 1.25)) +
@@ -34,6 +35,13 @@ suppressWarnings({
       )
   
   multi_v3 <- (free(b_v3$f2b) | free(a)) +
+      plot_layout(widths = c(1, 1.25)) +
+      plot_annotation(tag_levels = c("A")) &
+      theme(
+          plot.tag = element_text(size = 22, face = "bold", family = "Calibri")
+      )
+  
+  multi_v4 <- (free(b_v4$f2b) | free(a)) +
       plot_layout(widths = c(1, 1.25)) +
       plot_annotation(tag_levels = c("A")) &
       theme(
@@ -67,6 +75,7 @@ suppressWarnings({
   save_plot(multi_v1, "./docs/figures/figure_2_v1", 16, 8)
   save_plot(multi_v2, "./docs/figures/figure_2_v2", 16, 8)
   save_plot(multi_v3, "./docs/figures/figure_2_v3", 16, 8)
+  save_plot(multi_v4, "./docs/figures/figure_2_v4", 16, 8)
 })
 
 message("done!")
