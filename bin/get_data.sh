@@ -48,3 +48,7 @@ wget \
 wget \
     -O "docs/supplementary/supplementary_document_2.pdf" \
     "http://docs.google.com/document/d/16-P_NCOfFo0gezU51aev5OBuutiiR8DPz9KrZ7JSgmk/export?format=pdf"
+
+wget \
+    -O "docs/supplementary/supplementary_document_3.pdf" \
+    "http://docs.google.com/document/d/1CjhPbWLw-rc6bs7EQT_U-Dy8EypaIyNmWcW_Mnf9rAA/export?format=pdf"
