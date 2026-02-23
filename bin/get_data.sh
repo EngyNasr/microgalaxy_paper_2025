@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# Get platform xlsx
+# Get platform tsv
 wget \
-    -O docs/extended/extended_table_1.xlsx \
-    "https://docs.google.com/spreadsheets/d/1KxWoVRvuusMiKvs0ELiKHjbbQBBshdntSW1zxB4jyXc/export?format=xlsx"
+    -O docs/extended/extended_data_table_1.tsv \
+    "https://docs.google.com/spreadsheets/d/1KxWoVRvuusMiKvs0ELiKHjbbQBBshdntSW1zxB4jyXc/export?format=tsv"
 
 # Get survey data
 wget \
@@ -50,5 +50,10 @@ wget \
     "http://docs.google.com/document/d/16-P_NCOfFo0gezU51aev5OBuutiiR8DPz9KrZ7JSgmk/export?format=pdf"
 
 wget \
+   -O "docs/supplementary/supplementary_document_3.pdf" \
+    "http://docs.google.com/document/d/1CjhPbWLw-rc6bs7EQT_U-Dy8EypaIyNmWcW_Mnf9rAA/export?format=pdf"
+    
+wget \
     -O "docs/supplementary/supplementary_document_4.pdf" \
     "http://docs.google.com/document/d/1StJwglpS1euoAJLeO58ue5cFpHWs-m2yNV9w36LwhQE/export?format=pdf"
+
