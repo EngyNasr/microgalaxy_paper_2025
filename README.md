@@ -80,4 +80,4 @@ This section provides easy access to the MGL paper's figures, extended data, and
 - [`Supplementary Document 1`](docs/supplementary/supplementary_document_1.pdf): Complete list of survey questions shared with the microbiology research community via a Google Form between March and September 2023.
 - [`Supplementary Document 2`](docs/supplementary/supplementary_document_2.pdf): Template to collect detailed use cases from survey participants who expressed interest in contributing to the planned manuscript.
 - [`Supplementary Document 3`](docs/supplementary/supplementary_document_3.pdf): Detailed microGalaxy Community Roadmap (2026–2030), outlining the strategic priorities, goals, and planned developments for the Microbiology Galaxy Lab (MGL).
-- [`Supplementary Document 4`](docs/supplementary/supplementary_document_4.pdf): Template to collect detailed use cases from survey participants who expressed interest in contributing to the planned manuscript.
+- [`Supplementary Document 4`](docs/supplementary/supplementary_document_4.pdf): Citation extraction and annotation manual validation. 
