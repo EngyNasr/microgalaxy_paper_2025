@@ -85,5 +85,13 @@ This section provides easy access to the MGL paper's figures, extended data, and
 - [`Supplementary Table 5`](docs/supplementary/supplementary_table_5.tsv): Summary of use case submissions collected from survey participants and other highlighted use cases after the survey.
 - [`Supplementary Table 6`](docs/supplementary/supplementary_table_6.tsv): Comprehensive list of tutorials from the Galaxy Training Network (GTN) specifically dedicated to microbiological data analysis.
 - [`Supplementary Table 7`](docs/supplementary/supplementary_table_7.tsv): Overview of microbiology-related training events conducted between 2019 and 2024.
+- [`Supplementary Table 8`](docs/supplementary/supplementary_table_8.tsv): Extracted sampling table 5% from Extended Data Table 2 and 5% Extended Data Table 3.
+- [`Supplementary Table 9`](docs/supplementary/supplementary_table_9.tsv): Manually validated extracted sampling table 5% from Extended Data Table 2 and 5% Extended Data Table 3.
+- [`Supplementary Table 10`](docs/supplementary/supplementary_table_10.tsv): Extracted sampling table 1% from Extended Data Table 3.
+- [`Supplementary Table 11`](docs/supplementary/supplementary_table_11.tsv): Manually validated extracted sampling table 1% from Extended Data Table 3.
+- [`Supplementary Table 12`](docs/supplementary/supplementary_table_12.tsv): Intermediate stats outputs for manually validated extracted sampling table 1% from Extended Data Table 3.
+- [`Supplementary Table 13`](docs/supplementary/supplementary_table_13.tsv): Summary stats outputs for manually validated extracted sampling table 1% from Extended Data Table 3.
 - [`Supplementary Document 1`](docs/supplementary/supplementary_document_1.pdf): Complete list of survey questions shared with the microbiology research community via a Google Form between March and September 2023.
 - [`Supplementary Document 2`](docs/supplementary/supplementary_document_2.pdf): Template to collect detailed use cases from survey participants who expressed interest in contributing to the planned manuscript.
+- [`Supplementary Document 3`](docs/supplementary/supplementary_document_3.pdf): Detailed microGalaxy Community Roadmap (2026–2030), outlining the strategic priorities, goals, and planned developments for the Microbiology Galaxy Lab (MGL).
+- [`Supplementary Document 4`](docs/supplementary/supplementary_document_4.pdf): Citation extraction and annotation manual validation. 
