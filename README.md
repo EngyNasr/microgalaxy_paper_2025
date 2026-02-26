@@ -52,7 +52,7 @@ Visit the [MGL Docker development repository](https://github.com/usegalaxy-eu/do
 bash bin/build_figures.sh
 ```
 
-# MGL paper's figures, extended data, and supplementary materials
+# MGL paper's supplementary information (figures, tables, and methods)
 
 This section provides easy access to the MGL paper's figures, extended data, and supplementary materials.
 
