@@ -1,4 +1,4 @@
-message("Extended Figure 2 ...\t", appendLF = FALSE)
+message("Supplementary Figure 2 ...\t", appendLF = FALSE)
 
 suppressWarnings({
   ## Load `libraries` ----------------------------
@@ -21,9 +21,9 @@ suppressWarnings({
 
   ## Load input dataset --------------------------------
 
-  tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_2.tsv"
-  workflows_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_4.tsv"
-  tutorials_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_6.tsv"
+  tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_5.tsv"
+  workflows_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_7.tsv"
+  tutorials_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_9.tsv"
 
   tools_dt <- tools_url |> fread()
   workflows_dt <- workflows_url |> fread()
@@ -132,7 +132,7 @@ suppressWarnings({
     )
 
 
-  outfolder <- "../docs/extended/"
+  outfolder <- "../docs/supplementary/"
 
   # dir.create(outfolder, showWarnings = FALSE)
 
@@ -153,7 +153,7 @@ suppressWarnings({
     )
   }
 
-  save_plot(multi, "./docs/extended/extended_data_figure_2", 12, 12)
+  save_plot(multi, "./docs/supplementary/supplementary_figure_2", 12, 12)
 })
 
 message("done!")
