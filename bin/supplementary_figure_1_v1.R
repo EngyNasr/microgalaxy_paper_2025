@@ -66,7 +66,7 @@ gr <- gr_df |>
 
 # Save plots -------------------------------------
 
-outfolder <- "../docs/extended/"
+outfolder <- "../docs/supplementary/"
 
 dir.create(outfolder, showWarnings = FALSE)
 
@@ -87,4 +87,4 @@ save_plot <- function(plot, filename, w, h) {
   )
 }
 
-save_plot(gr, "../docs/extended/supplementary_figure_1", 8, 6)
+save_plot(gr, "../docs/supplementary/supplementary_figure_1", 8, 6)
