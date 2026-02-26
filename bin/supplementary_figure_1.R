@@ -1,4 +1,4 @@
-message("Extended Figure 1 ...\t", appendLF = FALSE)
+message("Supplementary Figure 1 ...\t", appendLF = FALSE)
 
 suppressWarnings({
   # Load `libraries` ---------------------
@@ -70,7 +70,7 @@ suppressWarnings({
     ) +
     labs(x = "Target", y = "**Percentage in the microbiology related papers**<br>citing Galaxy papers")
 
-  outfolder <- "../docs/extended/"
+  outfolder <- "../docs/supplementary/"
 
   # dir.create(outfolder, showWarnings = FALSE)
 
@@ -91,7 +91,7 @@ suppressWarnings({
     )
   }
 
-  save_plot(gr, "./docs/extended/extended_data_figure_1", 8, 6)
+  save_plot(gr, "./docs/supplementary/supplementary_figure_1", 8, 6)
 })
 
 message("done!")
