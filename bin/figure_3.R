@@ -26,7 +26,7 @@ suppressWarnings({
       plot.margin = margin(10, 10, 10, 15)
     )
 
-  outfolder <- "../docs/extended/"
+  outfolder <- "../docs/supplementary/"
 
   dir.create(outfolder, showWarnings = FALSE)
 
