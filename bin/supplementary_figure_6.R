@@ -1,4 +1,4 @@
-message("Extended Figure 6 ...\t", appendLF = FALSE)
+message("Supplementary Figure 6 ...\t", appendLF = FALSE)
 
 suppressWarnings({
   # Load `libraries`
@@ -17,8 +17,8 @@ suppressWarnings({
   })
 
 
-  workflows_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_4.tsv"
-  all_tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_2.tsv"
+  workflows_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_7.tsv"
+  all_tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_5.tsv"
 
   workflows_dt <- workflows_url |> fread(sep = "\t")
   all_tools_dt <- all_tools_url |> fread()
@@ -136,7 +136,7 @@ suppressWarnings({
   outfolder <- "../results/workflows/"
 
   # dir.create(outfolder, showWarnings = FALSE)
-  # dir.create("../docs/extended/", showWarnings = FALSE)
+  # dir.create("../docs/supplementary/", showWarnings = FALSE)
 
   save_plot <- function(plot, filename, w, h) {
     ggsave(
@@ -155,7 +155,7 @@ suppressWarnings({
     )
   }
 
-  save_plot(gr2, "./docs/extended/extended_data_figure_6", 16, 8)
+  save_plot(gr2, "./docs/supplementary/supplementary_figure_6", 16, 8)
 
   # fwrite(dt2, paste0(outfolder, "/workflows-stats.tsv"), row.names = FALSE, quote = FALSE, sep = "\t")
 })
