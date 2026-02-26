@@ -72,7 +72,7 @@ This section provides easy access to the MGL paper's figures, extended data, and
 - [`Supplementary Figure 3`](docs/extended/extended_data_figure_3.png): Usage of microbiology-related tool suites across workflows.
 - [`Supplementary Figure 4`](docs/extended/extended_data_figure_4.png): Usage of microbiology-related tool suites across training materials.
 - [`Supplementary Figure 5`](docs/extended/extended_data_figure_5.png): Flowchart illustrating the process to select and annotate the microbiology-related publications citing the Galaxy Project major publication.
-- [`Supplementary Table 1`](https://docs.google.com/spreadsheets/d/e/2PACX-1vRLzfV-VrXUya3OTBkHvBKYdj00h_56TTBs2AYZlCs9phKWpMTRVd5r8Rgt3cHZ9x4SeDz_GzRPSfxm/pubhtml): Features and capabilities of 44 existing user-friendly microbiological data analysis platforms (non-exhaustive list).
+- [`Supplementary Table 1`](https://docs.google.com/spreadsheets/d/e/2PACX-1vRLzfV-VrXUya3OTBkHvBKYdj00h_56TTBs2AYZlCs9phKWpMTRVd5r8Rgt3cHZ9x4SeDz_GzRPSfxm/pubhtml): Features and capabilities of 45 existing user-friendly microbiological data analysis platforms (non-exhaustive list).
 - [`Supplementary Table 2`](docs/supplementary/supplementary_table_1.tsv): Anonymous results from the microbiology research community survey conducted between March and September 2023.
 - [`Supplementary Table 3`](docs/extended/extended_data_table_2.tsv): Publications citing Galaxy Project from Google Scholar.
 - [`Supplementary Table 4`](docs/extended/extended_data_table_3.tsv): Major Galaxy Project publications from Google Scholar and classified as microbiology-related citations. 
