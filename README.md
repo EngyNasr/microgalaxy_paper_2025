@@ -60,7 +60,7 @@ This section provides easy access to the MGL paper's figures, extended data, and
 
 - [`Graphical abstract`](docs/figures/graphical_abstract.png)
 - [`Figure 1`](docs/figures/figure_1.png): Microbiology Galaxy Lab (MGL) interface (A) in comparison with default Galaxy interfaces on the UseGalaxy server (B, C)
-- [`Figure 2`](docs/figures/figure_2.png): Citation trends in Galaxy publications and survey results from the microbiology research community (March–September 2023)
+- [`Figure 2`](docs/figures/figure_2.png): Citation trends in Galaxy publications and survey results from the microbiology research community (March–September 2023).
 - [`Figure 3`](docs/figures/figure_3.png): Growth and usability of microbiology-related tool suites, training materials/tutorials, and workflows within the Galaxy ecosystem that are included in the Microbiology Galaxy Lab (MGL).
 - [`Figure 4`](docs/figures/figure_4.png): Overview of microbiological data analysis tasks with corresponding tool suites and potential analyses available on the MGL.
 - [`Figure 5`](docs/figures/figure_5.png):  Applications of MGL tools and workflows in health, disease, and ecosystem research.
