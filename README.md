@@ -1,8 +1,8 @@
-# Scripts and data associated with Microbiology Galaxy Lab (MGL) and microGalaxy 2025 Paper
+# Scripts and data associated with Microbiology Galaxy Lab (MGL) and microGalaxy 2026 Paper
 
 [![DOI](https://zenodo.org/badge/754032685.svg)](https://doi.org/10.5281/zenodo.15088382)
 
-This repository includes all data and the scripts needed to produce figures in the paper, along with the resulting figures.
+This repository includes all data and scripts needed to produce figures and statisctical information presented in the paper.
 
 # Running the MGL locally
 
