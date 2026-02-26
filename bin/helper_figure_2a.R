@@ -20,7 +20,7 @@ library(extrafont, quietly = TRUE)
 plot_figure_2A <- function() {
   ## Input data  -------------------------
 
-  df <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_technical_paper_2024/refs/heads/main/docs/supplementary/supplementary_table_1.tsv" |> fread()
+  df <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_technical_paper_2024/refs/heads/main/docs/supplementary/supplementary_table_2.tsv" |> fread()
 
   ## Correct column names ----------------------
 
