@@ -37,8 +37,8 @@ library(packcircles)
 ## THERE IS A BUG UNFORTUNATELY WITH fread FUNCTION
 ## RUN ON CONSOLE IN THIS CASE
 
-workflows_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_5.tsv"
-all_tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_2.tsv"
+workflows_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_7.tsv"
+all_tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_5.tsv"
 
 workflows_dt <- workflows_url |> fread(sep = "\t")
 all_tools_dt <- all_tools_url |> fread()
@@ -394,7 +394,7 @@ gr3 <- dt3 |>
 outfolder <- "../results/workflows/"
 
 dir.create(outfolder, showWarnings = FALSE)
-dir.create("../docs/extended/", showWarnings = FALSE)
+dir.create("../docs/supplementary/", showWarnings = FALSE)
 
 save_plot <- function(plot, filename, w, h) {
   ggsave(
@@ -413,9 +413,9 @@ save_plot <- function(plot, filename, w, h) {
   )
 }
 
-# save_plot(gr1, "../docs/extended/heatmap-edam", 16, 12)
-save_plot(gr2, "../docs/extended/extended_data_figure_6", 16, 8)
-save_plot(gr3, "../docs/extended/extended_data_figure_3", 9, 12)
+# save_plot(gr1, "../docs/supplementary/heatmap-edam", 16, 12)
+save_plot(gr2, "../docs/supplementary/supplementary_figure_6", 16, 8)
+save_plot(gr3, "../docs/supplementary/supplementary_figure_3", 9, 12)
 
 
 # writexl::write_xlsx(dt2, paste0(outfolder, "/workflows-stats.xlsx"))

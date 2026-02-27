@@ -37,8 +37,8 @@ library(packcircles)
 ## THERE IS A BUG UNFORTUNATELY WITH fread FUNCTION
 ## RUN ON CONSOLE IN THIS CASE
 
-microGalaxy_tutorials_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_6.tsv"
-microGalaxy_tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_2.tsv"
+microGalaxy_tutorials_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_9.tsv"
+microGalaxy_tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_5.tsv"
 # all_tools_url             <- "https://raw.githubusercontent.com/galaxyproject/galaxy_codex/refs/heads/main/communities/all/resources/tools.tsv"
 
 
@@ -479,7 +479,7 @@ b <- d |>
 
 ```{r}
 dir.create("../results/tutorials", showWarnings = FALSE)
-dir.create("../docs/extended/", showWarnings = FALSE)
+dir.create("../docs/supplementary/", showWarnings = FALSE)
 
 # dt --------------------------
 
@@ -503,8 +503,8 @@ save_plot <- function(plot, filename, w, h) {
 }
 
 
-save_plot(multi, "../docs/extended/extended_data_figure_4", 12, 8)
-save_plot(a_2, "../docs/extended/extended_data_figure_7", 20, 10)
+save_plot(multi, "../docs/supplementary/supplementary_figure_4", 12, 8)
+save_plot(a_2, "../docs/supplementary/supplementary_figure_7", 20, 10)
 
 # 1 ---------------
 
