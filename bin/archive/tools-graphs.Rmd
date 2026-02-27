@@ -35,9 +35,9 @@ library(colorspace)
 ## THERE IS A BUG UNFORTUNATELY WITH fread FUNCTION
 ## RUN ON CONSOLE IN THIS CASE
 
-tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_2.tsv"
-workflows_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_5.tsv"
-tutorials_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_6.tsv"
+tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_5.tsv"
+workflows_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_7.tsv"
+tutorials_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_9.tsv"
 
 tools_dt <- tools_url |> fread()
 workflows_dt <- workflows_url |> fread()
@@ -203,7 +203,7 @@ multi <- (c_1_a | c_1_b) +
   )
 
 
-outfolder <- "../docs/extended/"
+outfolder <- "../docs/supplementary/"
 
 dir.create(outfolder, showWarnings = FALSE)
 
@@ -224,8 +224,8 @@ save_plot <- function(plot, filename, w, h) {
   )
 }
 
-save_plot(multi, "../docs/extended/extended_data_figure_2", 12, 12)
-# save_plot(c_2, "../docs/extended/extended_data_figure_2_v2", 18, 6)
+save_plot(multi, "../docs/supplementary/supplementary_figure_2", 12, 12)
+# save_plot(c_2, "../docs/supplementary/supplementary_figure_2_v2", 18, 6)
 ```
 
 
@@ -905,7 +905,7 @@ multi <- ((d1_p | a) / b) +
 #     )
 
 
-outfolder <- "../docs/extended/"
+outfolder <- "../docs/supplementary/"
 
 dir.create(outfolder, showWarnings = FALSE)
 
@@ -929,17 +929,17 @@ save_plot <- function(plot, filename, w, h) {
 save_plot(multi, "../docs/figures/figure_3", 10, 12)
 
 # ggsave(
-#     plot = multi, filename = paste0(outfolder, "/extended_figure_3.png"),
+#     plot = multi, filename = paste0(outfolder, "/supplementary_figure_3.png"),
 #     width = 14, height = 15, units = "in", dpi = 600
 # )
 #
 # ggsave(
-#     plot = multi, filename = paste0(outfolder, "/extended_figure_3.pdf"),
+#     plot = multi, filename = paste0(outfolder, "/supplementary_figure_3.pdf"),
 #     width = 14, height = 15, units = "in", device = cairo_pdf
 # )
 #
 # ggsave(
-#     plot = multi, filename = paste0(outfolder, "/extended_figure_3.svg"),
+#     plot = multi, filename = paste0(outfolder, "/supplementary_figure_3.svg"),
 #     width = 14, height = 15, units = "in"
 # )
 ```
