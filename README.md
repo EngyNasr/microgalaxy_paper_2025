@@ -77,7 +77,7 @@ This section provides easy access to the MGL paper's figures, extended data, and
 - [`Supplementary Table 3`](docs/supplementary/supplementary_table_3.tsv): Publications citing Galaxy Project from Google Scholar.
 - [`Supplementary Table 4`](docs/supplementary/supplementary_table_4.tsv): Major Galaxy Project publications from Google Scholar and classified as microbiology-related citations. 
 - [`Supplementary Table 5`](docs/supplementary/supplementary_table_5.tsv): Overview of the 315 microbiology-related tool suites available.
-- [`Supplementary Table 6`](docs/supplementary/supplementary_table_6.tsv): Figure 3 tool suites represented on the figure as numbers.
+- [`Supplementary Table 6`](docs/supplementary/supplementary_table_6.tsv): Figure 4 tool suites represented on the figure as numbers.
 - [`Supplementary Table 7`](docs/supplementary/supplementary_table_7.tsv): Comprehensive list of microbiology-related workflows from the microGalaxy community.
 - [`Supplementary Table 8`](docs/supplementary/supplementary_table_8.tsv): Summary of use case submissions collected from survey participants and other highlighted use cases after the survey.
 - [`Supplementary Table 9`](docs/supplementary/supplementary_table_9.tsv): Comprehensive list of tutorials from the Galaxy Training Network (GTN) specifically dedicated to microbiological data analysis.
