@@ -82,13 +82,9 @@ This section provides easy access to the MGL paper's figures, extended data, and
 - [`Supplementary Table 8`](docs/supplementary/supplementary_table_8.tsv): Summary of use case submissions collected from survey participants and other highlighted use cases after the survey.
 - [`Supplementary Table 9`](docs/supplementary/supplementary_table_9.tsv): Comprehensive list of tutorials from the Galaxy Training Network (GTN) specifically dedicated to microbiological data analysis.
 - [`Supplementary Table 10`](docs/supplementary/supplementary_table_10.tsv): Overview of microbiology-related training events conducted between 2019 and 2024.
-- [`Supplementary Table 11`](docs/supplementary/supplementary_table_11.tsv): Extracted sampling table 5% from Extended Data Table 2 and 5% Extended Data Table 3.
-- [`Supplementary Table 12`](docs/supplementary/supplementary_table_12.tsv): Manually validated extracted sampling table 5% from Extended Data Table 2 and 5% Extended Data Table 3.
-- [`Supplementary Table 13`](docs/supplementary/supplementary_table_13.tsv): Extracted sampling table 1% from Extended Data Table 3.
-- [`Supplementary Table 14`](docs/supplementary/supplementary_table_14.tsv): Manually validated extracted sampling table 1% from Extended Data Table 3.
-- [`Supplementary Table 15`](docs/supplementary/supplementary_table_15.tsv): Intermediate stats outputs for manually validated extracted sampling table 1% from Extended Data Table 3.
-- [`Supplementary Table 16`](docs/supplementary/supplementary_table_16.tsv): Summary stats outputs for manually validated extracted sampling table 1% from Extended Data Table 3.
-- [`Supplementary Method 1`](docs/supplementary/supplementary_method_1.pdf): Complete list of survey questions shared with the microbiology research community via a Google Form between March and September 2023.
+- [`Supplementary Table 11`](docs/supplementary/supplementary_table_11.tsv): Binary document-level manual validation of microbiology-related citation classification.
+- [`Supplementary Table 12`](docs/supplementary/supplementary_table_12.tsv): Multi-label keyword-level manual validation of automated microbiology citation classification.
+- [`Supplementary Method 1`](docs/supplementary/supplementary_method_1.pdf): List of survey questions shared with the microbiology research community via a Google Form between March and September 2023.
 - [`Supplementary Method 2`](docs/supplementary/supplementary_method_2.pdf): Detailed microGalaxy Community Roadmap (2026–2030), outlining the strategic priorities, goals, and planned developments for the Microbiology Galaxy Lab (MGL).
 - [`Supplementary Method 3`](docs/supplementary/supplementary_method_3.pdf): Template to collect detailed use cases from survey participants who expressed interest in contributing to the planned manuscript.
-- [`Supplementary Method 4`](docs/supplementary/supplementary_method_4.pdf): Citation extraction and annotation manual validation. 
+- [`Supplementary Method 4`](docs/supplementary/supplementary_method_4.pdf): Manual validation framework for automated citation classification.
