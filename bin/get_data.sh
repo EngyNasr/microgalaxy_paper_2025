@@ -8,7 +8,7 @@ wget \
 # Get survey data
 wget \
     -O "docs/supplementary/supplementary_table_2.tsv" \
-    "https://raw.githubusercontent.com/paulzierep/microgalaxy-survey/refs/heads/main/data/modified_answers.csv" 
+    "https://docs.google.com/spreadsheets/d/1o01896CupVWvaV4wAaiLxux9QMjjmD8KfXMDZO0fARU/export?format=tsv" 
     
 # Get Codex data
 wget \
