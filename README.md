@@ -75,16 +75,16 @@ This section provides easy access to the MGL paper's figures, extended data, and
 - [`Supplementary Table 1`](https://docs.google.com/spreadsheets/d/e/2PACX-1vRLzfV-VrXUya3OTBkHvBKYdj00h_56TTBs2AYZlCs9phKWpMTRVd5r8Rgt3cHZ9x4SeDz_GzRPSfxm/pubhtml): Features and capabilities of 45 existing user-friendly microbiological data analysis platforms (non-exhaustive list).
 - [`Supplementary Table 2`](docs/supplementary/supplementary_table_2.tsv): Anonymous results from the microbiology research community survey conducted between March and September 2023.
 - [`Supplementary Table 3`](docs/supplementary/supplementary_table_3.tsv): Publications citing Galaxy Project from Google Scholar.
-- [`Supplementary Table 4`](docs/supplementary/supplementary_table_4.tsv): Major Galaxy Project publications from Google Scholar and classified as microbiology-related citations. 
-- [`Supplementary Table 5`](docs/supplementary/supplementary_table_5.tsv): Overview of the 315 microbiology-related tool suites available.
-- [`Supplementary Table 6`](docs/supplementary/supplementary_table_6.tsv): Figure 4 tool suites represented on the figure as numbers.
+- [`Supplementary Table 4`](docs/supplementary/supplementary_table_4.tsv): Publications citing Galaxy from Google Scholar classified as microbiology-related citations. 
+- [`Supplementary Table 5`](docs/supplementary/supplementary_table_5.tsv): Overview of the 315 microbiology-related tool suites available in the MGL.
+- [`Supplementary Table 6`](docs/supplementary/supplementary_table_6.tsv): Tool suites corresponding to numbers in Figure 4.
 - [`Supplementary Table 7`](docs/supplementary/supplementary_table_7.tsv): Comprehensive list of microbiology-related workflows from the microGalaxy community.
-- [`Supplementary Table 8`](docs/supplementary/supplementary_table_8.tsv): Summary of use case submissions collected from survey participants and other highlighted use cases after the survey.
-- [`Supplementary Table 9`](docs/supplementary/supplementary_table_9.tsv): Comprehensive list of tutorials from the Galaxy Training Network (GTN) specifically dedicated to microbiological data analysis.
-- [`Supplementary Table 10`](docs/supplementary/supplementary_table_10.tsv): Overview of microbiology-related training events conducted between 2019 and 2024.
-- [`Supplementary Table 11`](docs/supplementary/supplementary_table_11.tsv): Binary document-level manual validation of microbiology-related citation classification.
-- [`Supplementary Table 12`](docs/supplementary/supplementary_table_12.tsv): Multi-label keyword-level manual validation of automated microbiology citation classification.
+- [`Supplementary Table 8`](docs/supplementary/supplementary_table_8.tsv): Summary of use case submissions collected from survey participants and other highlighted use cases.
+- [`Supplementary Table 9`](docs/supplementary/supplementary_table_9.tsv): Comprehensive list of tutorials from the Galaxy Training Network (GTN) dedicated to microbiological data analysis.
+- [`Supplementary Table 10`](docs/supplementary/supplementary_table_10.tsv): Overview of microbiology-related training events conducted between 2019 and 2025.
+- [`Supplementary Table 11`](docs/supplementary/supplementary_table_11.tsv): Manual binary document-level validation of microbiology-related citation classification.
+- [`Supplementary Table 12`](docs/supplementary/supplementary_table_12.tsv): Manual multi-label keyword-level validation of automated microbiology citation classification.
 - [`Supplementary Method 1`](docs/supplementary/supplementary_method_1.pdf): List of survey questions shared with the microbiology research community via a Google Form between March and September 2023.
-- [`Supplementary Method 2`](docs/supplementary/supplementary_method_2.pdf): Detailed microGalaxy Community Roadmap (2026–2030), outlining the strategic priorities, goals, and planned developments for the Microbiology Galaxy Lab (MGL).
-- [`Supplementary Method 3`](docs/supplementary/supplementary_method_3.pdf): Template to collect detailed use cases from survey participants who expressed interest in contributing to the planned manuscript.
+- [`Supplementary Method 2`](docs/supplementary/supplementary_method_2.pdf): microGalaxy Community Roadmap (2026–2030), outlining the strategic priorities, goals, and planned developments for the Microbiology Galaxy Lab (MGL).
+- [`Supplementary Method 3`](docs/supplementary/supplementary_method_3.pdf): Template to collect use cases from survey participants who expressed interest in contributing to the planned manuscript.
 - [`Supplementary Method 4`](docs/supplementary/supplementary_method_4.pdf): Manual validation framework for automated citation classification.
