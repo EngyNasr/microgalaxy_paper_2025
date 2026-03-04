@@ -1,173 +1,173 @@
-Number in Figure 2	Input step	Output step	Tool suites	Corresponding RRID or biotools ID		
+Number in Figure 4	Input step	Output step	Tool suites	Corresponding RRID or biotools ID		
 1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	falco	biotools:falco		
-			FastQC	RRID:SCR_014583		
-			Cutadapt	RRID:SCR_011841		
-			fastp	RRID:SCR_016962		
-			MultiQC	RRID:SCR_014982		
-			Porechop	RRID:SCR_016967		
-			Filtlong	RRID:SCR_024020		
-			Nanoplot	RRID:SCR_024128		
-			Pycoqc	RRID:SCR_024185		
-			FastQE	bio.tools:fastqe		
-			lighter	RRID:SCR_024095		
-			Rasusa	biotools:rasusa		
-			BBtools	biotools:bbtools		
-			SeqKit	RRID:SCR_018926		
-			NCBI FCS GX	RRID:SCR_026367		
-			Bowtie	RRID:SCR_005476		
-			BWA	RRID:SCR_010910		
-			minimap	RRID:SCR_018550		
-			SortMeRNA	RRID:SCR_014402		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	FastQC	RRID:SCR_014583		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	Cutadapt	RRID:SCR_011841		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	fastp	RRID:SCR_016962		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	MultiQC	RRID:SCR_014982		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	Porechop	RRID:SCR_016967		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	Filtlong	RRID:SCR_024020		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	Nanoplot	RRID:SCR_024128		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	Pycoqc	RRID:SCR_024185		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	FastQE	bio.tools:fastqe		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	lighter	RRID:SCR_024095		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	Rasusa	biotools:rasusa		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	BBtools	biotools:bbtools		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	SeqKit	RRID:SCR_018926		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	NCBI FCS GX	RRID:SCR_026367		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	Bowtie	RRID:SCR_005476		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	BWA	RRID:SCR_010910		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	minimap	RRID:SCR_018550		
+1	(Meta)genomics / (meta)transcriptomics: Raw data	(Meta)genomics / (meta)transcriptomics: Clean reads	SortMeRNA	RRID:SCR_014402		
 2	(Meta)genomics: Clean reads	(Meta)genomics: Identified typed strains /  Taxonomic tables	MetaPhlAn	RRID:SCR_004915		
-			Kraken(2)	RRID:SCR_008140		
-			Bracken	bio.tools:bracken		
-			Diamond	RRID:SCR_016071		
-			Sylph	bio.tools:sylph		
-			mOTUs	bio.tools:motus		
-			(Re)Centrifuge	biotools:Recentrifuge		
-			GTDB-Tk	RRID:SCR_019136		
-			VirAnnot	biotools:virannot		
-			Metabuli			
-			MEGAN			
+2	(Meta)genomics: Clean reads	(Meta)genomics: Identified typed strains /  Taxonomic tables	Kraken(2)	RRID:SCR_008140		
+2	(Meta)genomics: Clean reads	(Meta)genomics: Identified typed strains /  Taxonomic tables	Bracken	bio.tools:bracken		
+2	(Meta)genomics: Clean reads	(Meta)genomics: Identified typed strains /  Taxonomic tables	Diamond	RRID:SCR_016071		
+2	(Meta)genomics: Clean reads	(Meta)genomics: Identified typed strains /  Taxonomic tables	Sylph	bio.tools:sylph		
+2	(Meta)genomics: Clean reads	(Meta)genomics: Identified typed strains /  Taxonomic tables	mOTUs	bio.tools:motus		
+2	(Meta)genomics: Clean reads	(Meta)genomics: Identified typed strains /  Taxonomic tables	(Re)Centrifuge	biotools:Recentrifuge		
+2	(Meta)genomics: Clean reads	(Meta)genomics: Identified typed strains /  Taxonomic tables	GTDB-Tk	RRID:SCR_019136		
+2	(Meta)genomics: Clean reads	(Meta)genomics: Identified typed strains /  Taxonomic tables	VirAnnot	biotools:virannot		
+2	(Meta)genomics: Clean reads	(Meta)genomics: Identified typed strains /  Taxonomic tables	Metabuli			
+2	(Meta)genomics: Clean reads	(Meta)genomics: Identified typed strains /  Taxonomic tables	MEGAN			
 3	Genomics: Clean reads	Genomics Assemblies	Shovill	RRID:SCR_017077		
-			Unicycler	RRID:SCR_024380		
-			SPades	RRID:SCR_000131		
-			Flye	RRID:SCR_017016		
-			SKESA	RRID:SCR_024341		
-			ABySS	RRID:SCR_010709		
-			Velvet	RRID:SCR_010755		
-			Unicycler	RRID:SCR_024380		
-			Racon	RRID:SCR_017642		
-			Pilon	RRID:SCR_014731		
-			Polypolish	biotools:polypolish		
-			QUAST	RRID:SCR_001228		
-			BUSCO	RRID:SCR_015008		
-			CheckM	RRID:SCR_016646		
+3	Genomics: Clean reads	Genomics Assemblies	Unicycler	RRID:SCR_024380		
+3	Genomics: Clean reads	Genomics Assemblies	SPades	RRID:SCR_000131		
+3	Genomics: Clean reads	Genomics Assemblies	Flye	RRID:SCR_017016		
+3	Genomics: Clean reads	Genomics Assemblies	SKESA	RRID:SCR_024341		
+3	Genomics: Clean reads	Genomics Assemblies	ABySS	RRID:SCR_010709		
+3	Genomics: Clean reads	Genomics Assemblies	Velvet	RRID:SCR_010755		
+3	Genomics: Clean reads	Genomics Assemblies	Unicycler	RRID:SCR_024380		
+3	Genomics: Clean reads	Genomics Assemblies	Racon	RRID:SCR_017642		
+3	Genomics: Clean reads	Genomics Assemblies	Pilon	RRID:SCR_014731		
+3	Genomics: Clean reads	Genomics Assemblies	Polypolish	biotools:polypolish		
+3	Genomics: Clean reads	Genomics Assemblies	QUAST	RRID:SCR_001228		
+3	Genomics: Clean reads	Genomics Assemblies	BUSCO	RRID:SCR_015008		
+3	Genomics: Clean reads	Genomics Assemblies	CheckM	RRID:SCR_016646		
 4	(Meta)genomics: Assemblies /  Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Antimicrobial peptides /  Virulence Identification /  Mob. elements transposons Genomics islands /  Molecular typing /  Biosythetic gene	Bakta	RRID:SCR_026400		
-			Prokka	RRID:SCR_014732		
-			Prodigal	RRID:SCR_011936		
-			Maker	RRID:SCR_005309		
-			braker	RRID:SCR_018964		
-			eggNOG Mapper	RRID:SCR_021165		
-			InterProScan	RRID:SCR_005829		
-			Funannotate	RRID:SCR_023039		
-			pharokka	RRID:SCR_026017		
+4	(Meta)genomics: Assemblies /  Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Antimicrobial peptides /  Virulence Identification /  Mob. elements transposons Genomics islands /  Molecular typing /  Biosythetic gene	Prokka	RRID:SCR_014732		
+4	(Meta)genomics: Assemblies /  Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Antimicrobial peptides /  Virulence Identification /  Mob. elements transposons Genomics islands /  Molecular typing /  Biosythetic gene	Prodigal	RRID:SCR_011936		
+4	(Meta)genomics: Assemblies /  Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Antimicrobial peptides /  Virulence Identification /  Mob. elements transposons Genomics islands /  Molecular typing /  Biosythetic gene	Maker	RRID:SCR_005309		
+4	(Meta)genomics: Assemblies /  Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Antimicrobial peptides /  Virulence Identification /  Mob. elements transposons Genomics islands /  Molecular typing /  Biosythetic gene	braker	RRID:SCR_018964		
+4	(Meta)genomics: Assemblies /  Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Antimicrobial peptides /  Virulence Identification /  Mob. elements transposons Genomics islands /  Molecular typing /  Biosythetic gene	eggNOG Mapper	RRID:SCR_021165		
+4	(Meta)genomics: Assemblies /  Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Antimicrobial peptides /  Virulence Identification /  Mob. elements transposons Genomics islands /  Molecular typing /  Biosythetic gene	InterProScan	RRID:SCR_005829		
+4	(Meta)genomics: Assemblies /  Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Antimicrobial peptides /  Virulence Identification /  Mob. elements transposons Genomics islands /  Molecular typing /  Biosythetic gene	Funannotate	RRID:SCR_023039		
+4	(Meta)genomics: Assemblies /  Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Antimicrobial peptides /  Virulence Identification /  Mob. elements transposons Genomics islands /  Molecular typing /  Biosythetic gene	pharokka	RRID:SCR_026017		
 5	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Antimicrobial peptides	HMMER	RRID:SCR_005305		
 6	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	Bakta	RRID:SCR_026400		
-			AMRFinderPlus	biotools:amrfinderplus		
-			ABRicate	RRID:SCR_021093		
-			fARGene	biotools:fargene		
-			hAMRonization	biotools:hamronization		
-			argNorm	biotools:argnorm		
-			StarAMR	biotools:staramr		
-			TB-Profiler	biotools:tb-profiler		
-			SeqSero2	biotools:SeqSero2		
-			abriTAMR	biotools:abritamr		
+6	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	AMRFinderPlus	biotools:amrfinderplus		
+6	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	ABRicate	RRID:SCR_021093		
+6	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	fARGene	biotools:fargene		
+6	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	hAMRonization	biotools:hamronization		
+6	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	argNorm	biotools:argnorm		
+6	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	StarAMR	biotools:staramr		
+6	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	TB-Profiler	biotools:tb-profiler		
+6	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	SeqSero2	biotools:SeqSero2		
+6	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	abriTAMR	biotools:abritamr		
 7	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Virulence Identification	ABRicate	RRID:SCR_021093		
 8	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Mob. elements transposons Genomics islands	ISEScan	biotools:isescan		
-			Transit	RRID:SCR_016492		
-			PlasmidFinder	biotools:PlasmidFinder		
+8	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Mob. elements transposons Genomics islands	Transit	RRID:SCR_016492		
+8	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Mob. elements transposons Genomics islands	PlasmidFinder	biotools:PlasmidFinder		
 9	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Molecular typing	StarAMR	biotools:staramr		
-			chewBBaca	biotools:chewbbaca		
-			pyMLST	biotools:pymlst		
-			MLST	RRID:SCR_010245		
-			SISTR	RRID:SCR_024342		
+9	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Molecular typing	chewBBaca	biotools:chewbbaca		
+9	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Molecular typing	pyMLST	biotools:pymlst		
+9	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Molecular typing	MLST	RRID:SCR_010245		
+9	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Molecular typing	SISTR	RRID:SCR_024342		
 10	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	Integron Finder	biotools:integron_finder		
-			CRISPRCasFinder	biotools:CRISPRCasFinder		
-			MITOS	biotools:mitos		
+10	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	CRISPRCasFinder	biotools:CRISPRCasFinder		
+10	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	MITOS	biotools:mitos		
 11	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Biosythetic gene	antiSMASH	RRID:SCR_022060		
-			HMMER	RRID:SCR_005305		
+11	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes /  Biosythetic gene	HMMER	RRID:SCR_005305		
 12	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	Gene Ontology	RRID:SCR_002811		
-			KEGG	RRID:SCR_012773		
+12	(Meta)genomics: Assemblies / Metagenome assembled genomes	(Meta)genomics: Reconstructed annotated complex & unknown genomes / Annotated gene catalog /   Numerous functional elements /  Antibiotic Resistance Genes	KEGG	RRID:SCR_012773		
 13	Genomics: Annotated gene catalog	Genomics: Compared genes	Orthofinder	RRID:SCR_017118		 
-			Proteinortho			
-			Roary	RRID:SCR_018172		
-			Mauve	RRID:SCR_012852		
-			Clustal (Omega)	RRID:SCR_001591		
-			FastTree	RRID:SCR_015501		
-			RAxML	RRID:SCR_006086		
-			Circos	RRID:SCR_011798		
-			PPanGGOLiN	biotools:PPanGGOLiN		
-			Panaroo	RRID:SCR_021090		
+13	Genomics: Annotated gene catalog	Genomics: Compared genes	Proteinortho			
+13	Genomics: Annotated gene catalog	Genomics: Compared genes	Roary	RRID:SCR_018172		
+13	Genomics: Annotated gene catalog	Genomics: Compared genes	Mauve	RRID:SCR_012852		
+13	Genomics: Annotated gene catalog	Genomics: Compared genes	Clustal (Omega)	RRID:SCR_001591		
+13	Genomics: Annotated gene catalog	Genomics: Compared genes	FastTree	RRID:SCR_015501		
+13	Genomics: Annotated gene catalog	Genomics: Compared genes	RAxML	RRID:SCR_006086		
+13	Genomics: Annotated gene catalog	Genomics: Compared genes	Circos	RRID:SCR_011798		
+13	Genomics: Annotated gene catalog	Genomics: Compared genes	PPanGGOLiN	biotools:PPanGGOLiN		
+13	Genomics: Annotated gene catalog	Genomics: Compared genes	Panaroo	RRID:SCR_021090		
 14	Genomics: Clean reads	Genomics: Mapped reads	BWA	RRID:SCR_010910		
-			Bowtie	RRID:SCR_005476		
-			minimap	RRID:SCR_018550		
-			Picard Tools	RRID:SCR_006525		
+14	Genomics: Clean reads	Genomics: Mapped reads	Bowtie	RRID:SCR_005476		
+14	Genomics: Clean reads	Genomics: Mapped reads	minimap	RRID:SCR_018550		
+14	Genomics: Clean reads	Genomics: Mapped reads	Picard Tools	RRID:SCR_006525		
 15	Genomics: Mapped reads	Genomics: Called variants	FreeBayes	RRID:SCR_010761		
-			GATK	RRID:SCR_001876		
-			Bcftools	RRID:SCR_005227		
-			Snippy	RRID:SCR_023572		
-			medaka	biotools:medaka		
-			Clair3	RRID:SCR_026063		
+15	Genomics: Mapped reads	Genomics: Called variants	GATK	RRID:SCR_001876		
+15	Genomics: Mapped reads	Genomics: Called variants	Bcftools	RRID:SCR_005227		
+15	Genomics: Mapped reads	Genomics: Called variants	Snippy	RRID:SCR_023572		
+15	Genomics: Mapped reads	Genomics: Called variants	medaka	biotools:medaka		
+15	Genomics: Mapped reads	Genomics: Called variants	Clair3	RRID:SCR_026063		
 16	Genomics: Called variants	Genomics: Clean and annotated variants	VCFtools	RRID:SCR_001235		
-			SnpSift	RRID:SCR_015624		
-			SnpEff	RRID:SCR_005191		
-			Samtools	RRID:SCR_002105		
+16	Genomics: Called variants	Genomics: Clean and annotated variants	SnpSift	RRID:SCR_015624		
+16	Genomics: Called variants	Genomics: Clean and annotated variants	SnpEff	RRID:SCR_005191		
+16	Genomics: Called variants	Genomics: Clean and annotated variants	Samtools	RRID:SCR_002105		
 17	Transcriptomics: Clean reads	Transcriptomics: Mapped reads	STAR	RRID:SCR_004463		
-			HISAT	RRID:SCR_015530		
-			Bowtie2	RRID:SCR_016368		
+17	Transcriptomics: Clean reads	Transcriptomics: Mapped reads	HISAT	RRID:SCR_015530		
+17	Transcriptomics: Clean reads	Transcriptomics: Mapped reads	Bowtie2	RRID:SCR_016368		
 18	Transcriptomics: Mapped reads	Transcriptomics: Gene counts	featureCounts	RRID:SCR_012919		
-			HTSeq	RRID:SCR_005514		
+18	Transcriptomics: Mapped reads	Transcriptomics: Gene counts	HTSeq	RRID:SCR_005514		
 19	Transcriptomics: Gene counts	Transcriptomics: Differentially expressed genes	edgeR	RRID:SCR_012802		
-			DESeq2	RRID:SCR_015687		
+19	Transcriptomics: Gene counts	Transcriptomics: Differentially expressed genes	DESeq2	RRID:SCR_015687		
 20	Transcriptomics: Gene counts	Transcriptomics: Differentially expressed transcripts	StringTie	RRID:SCR_016323		
-			GFFCompare	biotools:gffcompare		
-			Cufflinks	RRID:SCR_014597		
+20	Transcriptomics: Gene counts	Transcriptomics: Differentially expressed transcripts	GFFCompare	biotools:gffcompare		
+20	Transcriptomics: Gene counts	Transcriptomics: Differentially expressed transcripts	Cufflinks	RRID:SCR_014597		
 21	(Meta)proteomics: Raw data	(Meta)proteomics: Controlled mass spectra	msconvert	biotools:msconvert		
-			OpenMS	RRID:SCR_012042		
+21	(Meta)proteomics: Raw data	(Meta)proteomics: Controlled mass spectra	OpenMS	RRID:SCR_012042		
 22	(Meta)proteomics: Controlled mass spectra /  Annotated gene catalog / Customised database	(Meta)proteomics: Microbial peptides	SearchGUI	RRID:SCR_012054		
-			PeptideShaker	RRID:SCR_002520		
-			MaxQuant	RRID:SCR_014485		
-			FragPipe	RRID:SCR_022864		
+22	(Meta)proteomics: Controlled mass spectra /  Annotated gene catalog / Customised database	(Meta)proteomics: Microbial peptides	PeptideShaker	RRID:SCR_002520		
+22	(Meta)proteomics: Controlled mass spectra /  Annotated gene catalog / Customised database	(Meta)proteomics: Microbial peptides	MaxQuant	RRID:SCR_014485		
+22	(Meta)proteomics: Controlled mass spectra /  Annotated gene catalog / Customised database	(Meta)proteomics: Microbial peptides	FragPipe	RRID:SCR_022864		
 23	(Meta)proteomics: Microbial peptides	(Meta)proteomics: Quantified microbial peptides /  Protein groups	MaxQuant	RRID:SCR_014485		
-			PepQuery	biotools:PepQuery		
-			FragPipe	RRID:SCR_022864		
-			MSstatsTMT	biotools:msstatstmt		
-			iTRAQ	biotools:itraq		
-			UniPept	RRID:SCR_024987		
+23	(Meta)proteomics: Microbial peptides	(Meta)proteomics: Quantified microbial peptides /  Protein groups	PepQuery	biotools:PepQuery		
+23	(Meta)proteomics: Microbial peptides	(Meta)proteomics: Quantified microbial peptides /  Protein groups	FragPipe	RRID:SCR_022864		
+23	(Meta)proteomics: Microbial peptides	(Meta)proteomics: Quantified microbial peptides /  Protein groups	MSstatsTMT	biotools:msstatstmt		
+23	(Meta)proteomics: Microbial peptides	(Meta)proteomics: Quantified microbial peptides /  Protein groups	iTRAQ	biotools:itraq		
+23	(Meta)proteomics: Microbial peptides	(Meta)proteomics: Quantified microbial peptides /  Protein groups	UniPept	RRID:SCR_024987		
 24	(Meta)proteomics: Protein groups	(Meta)proteomics: Differential features /  Visualisations	MSStats	RRID:SCR_014353		
 25	Metabarcoding: Raw reads /  Clean, merged, amplicons /  OTUs/ASVs /   Taxonomic tables	Metabarcoding: Clean, merged, amplicons /  OTUs/ASVs /   Taxonomic tables /  Diversity metrics /  Community profile visualisations /  Differential features 	QIIME2	RRID:SCR_008249		
-			dada2	RRID:SCR_023519		
-			LotuS	biotools:LOTUS		
-			mothur	RRID:SCR_011947		
-			mOTUs	bio.tools:motus		
-			FROGs	biotools:frogs		
+25	Metabarcoding: Raw reads /  Clean, merged, amplicons /  OTUs/ASVs /   Taxonomic tables	Metabarcoding: Clean, merged, amplicons /  OTUs/ASVs /   Taxonomic tables /  Diversity metrics /  Community profile visualisations /  Differential features 	dada2	RRID:SCR_023519		
+25	Metabarcoding: Raw reads /  Clean, merged, amplicons /  OTUs/ASVs /   Taxonomic tables	Metabarcoding: Clean, merged, amplicons /  OTUs/ASVs /   Taxonomic tables /  Diversity metrics /  Community profile visualisations /  Differential features 	LotuS	biotools:LOTUS		
+25	Metabarcoding: Raw reads /  Clean, merged, amplicons /  OTUs/ASVs /   Taxonomic tables	Metabarcoding: Clean, merged, amplicons /  OTUs/ASVs /   Taxonomic tables /  Diversity metrics /  Community profile visualisations /  Differential features 	mothur	RRID:SCR_011947		
+25	Metabarcoding: Raw reads /  Clean, merged, amplicons /  OTUs/ASVs /   Taxonomic tables	Metabarcoding: Clean, merged, amplicons /  OTUs/ASVs /   Taxonomic tables /  Diversity metrics /  Community profile visualisations /  Differential features 	mOTUs	bio.tools:motus		
+25	Metabarcoding: Raw reads /  Clean, merged, amplicons /  OTUs/ASVs /   Taxonomic tables	Metabarcoding: Clean, merged, amplicons /  OTUs/ASVs /   Taxonomic tables /  Diversity metrics /  Community profile visualisations /  Differential features 	FROGs	biotools:frogs		
 26	Metabarcoding: Taxonomic tables	Metabarcoding: Functional tables	Picrust	RRID:SCR_016855		
 27	Metamicrobiome: Metabarcoding / Metagenomics / Metatranscriptomics / Metaproteomics: Differential features /  Taxonomic tables	Metabarcoding / Metagenomics: Differential features	MaAsLin2	RRID:SCR_023241		
-			edgeR	RRID:SCR_012802		
-			ANCOM	RRID:SCR_024901		
-			ALDEx2	RRID:SCR_003364		
+27	Metamicrobiome: Metabarcoding / Metagenomics / Metatranscriptomics / Metaproteomics: Differential features /  Taxonomic tables	Metabarcoding / Metagenomics: Differential features	edgeR	RRID:SCR_012802		
+27	Metamicrobiome: Metabarcoding / Metagenomics / Metatranscriptomics / Metaproteomics: Differential features /  Taxonomic tables	Metabarcoding / Metagenomics: Differential features	ANCOM	RRID:SCR_024901		
+27	Metamicrobiome: Metabarcoding / Metagenomics / Metatranscriptomics / Metaproteomics: Differential features /  Taxonomic tables	Metabarcoding / Metagenomics: Differential features	ALDEx2	RRID:SCR_003364		
 28	Metagenomics: Taxonomic tables	Metagenomics: Diversity metrics	Krakentools	biotools:krakentools		
 29	Metagenomics / Metatranscriptomics: Taxonomic tables	Metagenomics / Metatranscriptomics: Community profile visulisations	KRONA	RRID:SCR_012785		
-			GraPhlAn	RRID:SCR_016130		
-			Pavian	RRID:SCR_016679		
-			Phinch	biotools:phinch		
+29	Metagenomics / Metatranscriptomics: Taxonomic tables	Metagenomics / Metatranscriptomics: Community profile visulisations	GraPhlAn	RRID:SCR_016130		
+29	Metagenomics / Metatranscriptomics: Taxonomic tables	Metagenomics / Metatranscriptomics: Community profile visulisations	Pavian	RRID:SCR_016679		
+29	Metagenomics / Metatranscriptomics: Taxonomic tables	Metagenomics / Metatranscriptomics: Community profile visulisations	Phinch	biotools:phinch		
 30	Metagenomics / Metatranscriptomics: Clean reads /  Community profile visualisations	Metagenomics / Metatranscriptomics: Feature tables	HUMAnN	RRID:SCR_014620		
-			minimap	RRID:SCR_018550		
-			BWA-MEM	RRID:SCR_022192		
-			Diamond	RRID:SCR_016071		
+30	Metagenomics / Metatranscriptomics: Clean reads /  Community profile visualisations	Metagenomics / Metatranscriptomics: Feature tables	minimap	RRID:SCR_018550		
+30	Metagenomics / Metatranscriptomics: Clean reads /  Community profile visualisations	Metagenomics / Metatranscriptomics: Feature tables	BWA-MEM	RRID:SCR_022192		
+30	Metagenomics / Metatranscriptomics: Clean reads /  Community profile visualisations	Metagenomics / Metatranscriptomics: Feature tables	Diamond	RRID:SCR_016071		
 31	Metagenomics: Clean reads	Metagenomics: Antibiotic Resistance Genes	Groot	biotools:groot		
-			deepARG	biotools:deeparg		
+31	Metagenomics: Clean reads	Metagenomics: Antibiotic Resistance Genes	deepARG	biotools:deeparg		
 32	Metagenomics: Clean reads	Metagenomics: Assemblies	MEGAHIT	RRID:SCR_018551		
-			MetaSPades	biotools:metaspades		
-			Flye	RRID:SCR_017016		
-			Unicycler	RRID:SCR_024380		
-			Racon	RRID:SCR_017642		
-			Pilon	RRID:SCR_014731		
-			Polypolish	biotools:polypolish		
-			(meta)QUAST	RRID:SCR_001228		
+32	Metagenomics: Clean reads	Metagenomics: Assemblies	MetaSPades	biotools:metaspades		
+32	Metagenomics: Clean reads	Metagenomics: Assemblies	Flye	RRID:SCR_017016		
+32	Metagenomics: Clean reads	Metagenomics: Assemblies	Unicycler	RRID:SCR_024380		
+32	Metagenomics: Clean reads	Metagenomics: Assemblies	Racon	RRID:SCR_017642		
+32	Metagenomics: Clean reads	Metagenomics: Assemblies	Pilon	RRID:SCR_014731		
+32	Metagenomics: Clean reads	Metagenomics: Assemblies	Polypolish	biotools:polypolish		
+32	Metagenomics: Clean reads	Metagenomics: Assemblies	(meta)QUAST	RRID:SCR_001228		
 33	Metagenomics: Assemblies	Metagenomics: Metagenome assembled genomes	MetaBAT	RRID:SCR_019134		
-			CONCOCT	biotools:concoct		
-			MAxBin	biotools:maxbin		
-			SemiBin	biotools:semibin		
-			DASTool	biotools:dastool		
-			MetaWRAP	biotools:metawrap		
-			dRep	biotools:drep		
-			CoverM	biotools:coverm		
-			CheckM	RRID:SCR_016646		
-			Binette	biotools:binette		
+33	Metagenomics: Assemblies	Metagenomics: Metagenome assembled genomes	CONCOCT	biotools:concoct		
+33	Metagenomics: Assemblies	Metagenomics: Metagenome assembled genomes	MAxBin	biotools:maxbin		
+33	Metagenomics: Assemblies	Metagenomics: Metagenome assembled genomes	SemiBin	biotools:semibin		
+33	Metagenomics: Assemblies	Metagenomics: Metagenome assembled genomes	DASTool	biotools:dastool		
+33	Metagenomics: Assemblies	Metagenomics: Metagenome assembled genomes	MetaWRAP	biotools:metawrap		
+33	Metagenomics: Assemblies	Metagenomics: Metagenome assembled genomes	dRep	biotools:drep		
+33	Metagenomics: Assemblies	Metagenomics: Metagenome assembled genomes	CoverM	biotools:coverm		
+33	Metagenomics: Assemblies	Metagenomics: Metagenome assembled genomes	CheckM	RRID:SCR_016646		
+33	Metagenomics: Assemblies	Metagenomics: Metagenome assembled genomes	Binette	biotools:binette		
 34	Metagenomics: Metagenome assembled genomes	Metagenomics: Annotated gene catalog /  Reconstructed, annotated complex & unknown genomes	GTDB-Tk	RRID:SCR_019136		
-			Contig Annotation Tool (CAT)	RRID:SCR_008421		
+34	Metagenomics: Metagenome assembled genomes	Metagenomics: Annotated gene catalog /  Reconstructed, annotated complex & unknown genomes	Contig Annotation Tool (CAT)	RRID:SCR_008421		
 35	Metaproteomics: Controlled mass spectra /  Community profile visualisations	Metaproteomics: Customised database	Metanovo	biotools:metanovo		
 36	Metaproteomics: Quantified microbial peptides	Metaproteomics: Taxonomic tables /  Functional tables	Unipept	RRID:SCR_024987		
 37	Metaproteomics: Functional tables	Metaproteomics: Differential features /  Visualisations	MetaQuantome	biotools:metaQuantome		
