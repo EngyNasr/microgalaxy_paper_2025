@@ -7,9 +7,9 @@
    viewBox="0 0 219.42293 327.9136"
    version="1.1"
    id="svg1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="extended_data_figure_5.svg"
-   inkscape:export-filename="extended_data_figure_5.png"
+   inkscape:version="1.4.3 (0d15f750, 2025-12-25)"
+   sodipodi:docname="supplementary_figure_5.svg"
+   inkscape:export-filename="supplementary_figure_5.pdf"
    inkscape:export-xdpi="500"
    inkscape:export-ydpi="500"
    xml:space="preserve"
@@ -27,13 +27,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0074671"
-     inkscape:cx="311.17643"
-     inkscape:cy="268.99143"
-     inkscape:window-width="1854"
-     inkscape:window-height="1011"
-     inkscape:window-x="66"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
+     inkscape:cx="311.17641"
+     inkscape:cy="269.48771"
+     inkscape:window-width="1302"
+     inkscape:window-height="648"
+     inkscape:window-x="22"
+     inkscape:window-y="96"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g35"
      inkscape:export-bgcolor="#ffffffff"
      showguides="false"
@@ -11319,11 +11319,11 @@
        x="-98.707916"
        y="0"><tspan
          x="-798.39648"
-         y="1449.7872"
-         id="tspan9032"><tspan
-           dx="0 23.714373 24.805616 26.568443 24.805611 27.57579"
+         y="1450.4506"
+         id="tspan2"><tspan
+           dx="0 24.343931 25.141447 26.61047 25.141449 25.351273"
            style="font-weight:bold;stroke:none"
-           id="tspan9030">Legend</tspan></tspan></text><text
+           id="tspan1">Legend</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.04669452,0,0,0.04669452,-330.76751,-510.81295)"
        id="text33"
@@ -11570,30 +11570,30 @@
          transform="matrix(0.73646058,0,0,0.73646058,159.33896,-77.384892)"><tspan
            x="42.451725"
            y="109.59203"
-           id="tspan9036"><tspan
+           id="tspan4"><tspan
              style="font-weight:bold;font-size:2.74383px;-inkscape-font-specification:'Raleway Bold';text-align:center;text-anchor:middle"
-             id="tspan9034">Microbiology-related </tspan></tspan><tspan
+             id="tspan3">Microbiology-related </tspan></tspan><tspan
            x="42.451725"
            y="113.02182"
-           id="tspan9040"><tspan
+           id="tspan6"><tspan
              style="font-weight:bold;font-size:2.74383px;-inkscape-font-specification:'Raleway Bold';text-align:center;text-anchor:middle"
-             id="tspan9038">publications citing the </tspan></tspan><tspan
+             id="tspan5">publications citing the </tspan></tspan><tspan
            x="42.451725"
            y="116.45161"
-           id="tspan9044"><tspan
+           id="tspan8"><tspan
              style="font-weight:bold;font-size:2.74383px;-inkscape-font-specification:'Raleway Bold';text-align:center;text-anchor:middle"
-             id="tspan9042">major Galaxy Project </tspan></tspan><tspan
+             id="tspan7">major Galaxy Project </tspan></tspan><tspan
            x="42.451725"
-           y="119.88139"
-           id="tspan9048"><tspan
+           y="119.8814"
+           id="tspan10"><tspan
              style="font-weight:bold;font-size:2.74383px;-inkscape-font-specification:'Raleway Bold';text-align:center;text-anchor:middle"
-             id="tspan9046">publications
+             id="tspan9">publications
 </tspan></tspan><tspan
            x="42.451725"
            y="123.31118"
-           id="tspan9052"><tspan
+           id="tspan12"><tspan
    style="font-weight:bold;font-size:2.74383px;-inkscape-font-specification:'Raleway Bold';text-align:center;text-anchor:middle"
-   id="tspan9050">n=2,903</tspan>
+   id="tspan11">n=2,903</tspan>
 </tspan></text><path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
          d="M 58.606482,17.66704 H 209.75062"
@@ -11618,19 +11618,19 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-65);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="353.42572"
-             y="54.720952"
-             id="tspan9054">Publications in </tspan><tspan
-             x="357.72855"
-             y="105.7027"
-             id="tspan9056">Galaxy Project </tspan><tspan
-             x="351.89625"
-             y="156.68445"
-             id="tspan9058">Google Scholar
+             x="360.72634"
+             y="55.365616"
+             id="tspan13">Publications in </tspan><tspan
+             x="363.15306"
+             y="106.34737"
+             id="tspan14">Galaxy Project </tspan><tspan
+             x="353.18095"
+             y="157.32912"
+             id="tspan15">Google Scholar
 </tspan><tspan
-             x="455.53193"
-             y="207.6662"
-             id="tspan9060">n=54</tspan></text></g><rect
+             x="459.77361"
+             y="208.31087"
+             id="tspan16">n=54</tspan></text></g><rect
          style="display:inline;fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-1-1-9)"
          id="rect2-94-7-3-6-6-7-3"
          width="113.32522"
@@ -11648,47 +11648,47 @@
          transform="matrix(0.73646058,0,0,0.73646058,117.89379,-55.781946)"><tspan
            x="42.451725"
            y="109.59203"
-           id="tspan9066"><tspan
+           id="tspan20"><tspan
              style="text-align:center;text-anchor:middle"
-             id="tspan9062">Technical </tspan><tspan
+             id="tspan17">Technical </tspan><tspan
              style="text-align:center;text-anchor:middle"
-             id="tspan9064">target(s)</tspan></tspan></text><text
+             id="tspan18">target(s)</tspan></tspan></text><text
          xml:space="preserve"
          transform="matrix(0.04766855,0,0,0.05149561,127.75536,-34.944063)"
          id="text1-3-7-0-6"
          style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
          x="0"
          y="0"><tspan
-           x="298.2365"
-           y="54.720952"
-           id="tspan9068">Publications citing the </tspan><tspan
-           x="314.85649"
-           y="105.7027"
-           id="tspan9070">major Galaxy Project </tspan><tspan
-           x="401.11768"
-           y="156.68445"
-           id="tspan9072">publications
+           x="308.88148"
+           y="55.365616"
+           id="tspan22">Publications citing the </tspan><tspan
+           x="325.31803"
+           y="106.34737"
+           id="tspan23">major Galaxy Project </tspan><tspan
+           x="405.78757"
+           y="157.32912"
+           id="tspan24">publications
 </tspan><tspan
-           x="437.60013"
-           y="207.6662"
-           id="tspan9074">n=13,344</tspan></text><text
+           x="444.73762"
+           y="208.31087"
+           id="tspan25">n=13,344</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.04766855,0,0,0.05149561,154.6522,-33.003396)"
          id="text1-3-7-0-6-7"
          style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
          x="0"
          y="0"><tspan
-           x="406.74369"
-           y="54.720952"
-           id="tspan9076">Publications 
+           x="411.94385"
+           y="55.365616"
+           id="tspan26">Publications 
 </tspan><tspan
-           x="312.01959"
-           y="105.7027"
-           id="tspan9078">(without duplications)
+           x="323.96968"
+           y="106.34737"
+           id="tspan27">(without duplications)
 </tspan><tspan
-           x="448.4263"
-           y="156.68445"
-           id="tspan9080">n=10,518</tspan></text><rect
+           x="455.40063"
+           y="157.32912"
+           id="tspan28">n=10,518</tspan></text><rect
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.177507;stroke-dasharray:0.177507, 0.177507;stroke-dashoffset:0;stroke-opacity:1"
          id="rect30-9-9-4-9-3-9-5-9-7-4-9-6-2-8"
          width="3.8102264"
@@ -11724,13 +11724,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="452.42329"
-             y="54.720952"
-             id="tspan9082">Bacteria
+             x="455.84933"
+             y="55.365616"
+             id="tspan29">Bacteria
 </tspan><tspan
-             x="460.09094"
-             y="105.7027"
-             id="tspan9084">n=1,254</tspan></text></g><g
+             x="467.16725"
+             y="106.34737"
+             id="tspan30">n=1,254</tspan></text></g><g
          id="g17"
          transform="translate(0,-6.7562289)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-2)"
@@ -11748,13 +11748,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="439.27007"
-             y="54.720952"
-             id="tspan9086">Pathogen
+             x="443.49126"
+             y="55.365616"
+             id="tspan31">Pathogen
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9088">n=887</tspan></text></g><g
+             x="480.34089"
+             y="106.34737"
+             id="tspan32">n=887</tspan></text></g><g
          id="g18"
          transform="translate(0,-6.5803237)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-5)"
@@ -11772,13 +11772,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-1);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="416.38943"
-             y="54.720952"
-             id="tspan9090">Microbiome
+             x="421.4876"
+             y="55.365616"
+             id="tspan33">Microbiome
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9092">n=855</tspan></text></g><g
+             x="481.50326"
+             y="106.34737"
+             id="tspan34">n=855</tspan></text></g><g
          id="g19"
          transform="translate(0,-6.7544597)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-2-7)"
@@ -11796,13 +11796,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0-7);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="485.35754"
-             y="54.720952"
-             id="tspan9094">Virus
+             x="488.06979"
+             y="55.365616"
+             id="tspan35">Virus
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9096">n=855</tspan></text></g><rect
+             x="481.50326"
+             y="106.34737"
+             id="tspan36">n=855</tspan></text></g><rect
          style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-5-6)"
          id="rect2-94-7-3-6-52-5-2-0-7-1-7-8"
          width="113.32522"
@@ -11818,13 +11818,13 @@
          style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-1-8);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
          x="0"
          y="0"><tspan
-           x="433.45811"
-           y="54.720952"
-           id="tspan9098">Eukaryote
+           x="439.04564"
+           y="55.365616"
+           id="tspan37">Eukaryote
 </tspan><tspan
-           x="489.23212"
-           y="105.7027"
-           id="tspan9100">n=88</tspan></text><rect
+           x="491.78121"
+           y="106.34737"
+           id="tspan38">n=88</tspan></text><rect
          style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-2-7-1)"
          id="rect2-94-7-3-6-52-5-2-0-7-1-6-7-0"
          width="113.32522"
@@ -11840,13 +11840,13 @@
          style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0-7-8);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
          x="0"
          y="0"><tspan
-           x="454.13631"
-           y="54.720952"
-           id="tspan9102">Archaea
+           x="456.7262"
+           y="55.365616"
+           id="tspan39">Archaea
 </tspan><tspan
-           x="489.23212"
-           y="105.7027"
-           id="tspan9104">n=74</tspan></text><path
+           x="494.3303"
+           y="106.34737"
+           id="tspan40">n=74</tspan></text><path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
          d="M 108.93149,26.68581 V 133.19162"
          id="path20-5-4-2-5-7-3-3-7-1"
@@ -11928,16 +11928,16 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-6);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="401.42739"
-             y="54.720952"
-             id="tspan9106">Community </tspan><tspan
-             x="311.37326"
-             y="105.7027"
-             id="tspan9108">(taxonomy) profiling
+             x="407.66755"
+             y="55.365616"
+             id="tspan41">Community </tspan><tspan
+             x="325.07705"
+             y="106.34737"
+             id="tspan42">(taxonomy) profiling
 </tspan><tspan
-             x="460.50499"
-             y="156.68445"
-             id="tspan9110">n=938</tspan></text></g><g
+             x="463.64545"
+             y="157.32912"
+             id="tspan43">n=938</tspan></text></g><g
          id="g23"
          transform="translate(-3.1913295,-7.7149667)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-2-4)"
@@ -11955,13 +11955,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0-6);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="341.87451"
-             y="54.720952"
-             id="tspan9112">Functional analysis
+             x="351.74468"
+             y="55.365616"
+             id="tspan44">Functional analysis
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9114">n=687</tspan></text></g><g
+             x="480.27971"
+             y="106.34737"
+             id="tspan45">n=687</tspan></text></g><g
          id="g26"
          transform="translate(-3.1913325,-7.9321347)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-5-7)"
@@ -11979,13 +11979,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-1-82);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="490.86354"
-             y="54.720952"
-             id="tspan9116">AMR
+             x="492.71927"
+             y="55.365616"
+             id="tspan46">AMR
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9118">n=519</tspan></text></g><g
+             x="483.03273"
+             y="106.34737"
+             id="tspan47">n=519</tspan></text></g><g
          id="g27"
          transform="translate(-3.1913331,-7.9584787)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-2-7-9)"
@@ -12003,13 +12003,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0-7-6);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="410.19007"
-             y="54.720952"
-             id="tspan9120">Interactome
+             x="417.34786"
+             y="55.365616"
+             id="tspan48">Interactome
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9122">n=345</tspan></text></g><g
+             x="482.23742"
+             y="106.34737"
+             id="tspan49">n=345</tspan></text></g><g
          id="g28"
          transform="translate(-0.18357906,-5.826518)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-5-6-1)"
@@ -12027,13 +12027,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-1-8-9);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="462.41575"
-             y="54.720952"
-             id="tspan9124">Variant
+             x="468.41122"
+             y="55.365616"
+             id="tspan50">Variant
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9126">n=213</tspan></text></g><g
+             x="483.46101"
+             y="106.34737"
+             id="tspan51">n=213</tspan></text></g><g
          id="g29"
          transform="translate(-3.1913341,-8.9186147)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-2-7-1-1)"
@@ -12051,13 +12051,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0-7-8-5);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="319.21822"
-             y="54.720952"
-             id="tspan9128">Comparative analysis
+             x="329.31267"
+             y="55.365616"
+             id="tspan52">Comparative analysis
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9130">n=173</tspan></text></g><g
+             x="483.52215"
+             y="106.34737"
+             id="tspan53">n=173</tspan></text></g><g
          id="g30"
          transform="translate(-3.1913314,-10.414853)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-2-7-9-1)"
@@ -12075,13 +12075,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0-7-6-2);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="479.83108"
-             y="54.720952"
-             id="tspan9132">MAGs
+             x="481.97234"
+             y="55.365616"
+             id="tspan54">MAGs
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9134">n=153</tspan></text></g><g
+             x="483.6649"
+             y="106.34737"
+             id="tspan55">n=153</tspan></text></g><g
          id="g31"
          transform="translate(-3.1913335,-10.553755)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-5-6-1-6)"
@@ -12099,13 +12099,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-1-8-9-9);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="421.87508"
-             y="54.720952"
-             id="tspan9136">Annotation
+             x="429.95047"
+             y="55.365616"
+             id="tspan56">Annotation
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9138">n=136</tspan></text></g><path
+             x="482.5841"
+             y="106.34737"
+             id="tspan57">n=136</tspan></text></g><path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-2-7-9-8-51-3-2-5-3-5)"
          d="m 209.75527,36.422238 h 2.44564"
          id="path20-5-2-2-9-53-5-5-7-4-6"
@@ -12163,16 +12163,16 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-1-8-9-70);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="300.62674"
-             y="54.720952"
-             id="tspan9140">Gene identification / </tspan><tspan
-             x="401.46856"
-             y="105.7027"
-             id="tspan9142">Biomarker
+             x="305.7656"
+             y="55.365616"
+             id="tspan58">Gene identification / </tspan><tspan
+             x="408.62647"
+             y="106.34737"
+             id="tspan59">Biomarker
 </tspan><tspan
-             x="461.17841"
-             y="156.68445"
-             id="tspan9144">n=82</tspan></text></g><g
+             x="464.54323"
+             y="157.32912"
+             id="tspan60">n=82</tspan></text></g><g
          id="g33"
          transform="translate(-3.1913341,-11.543625)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-2-7-1-1-6)"
@@ -12190,13 +12190,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0-7-8-5-4);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="486.86659"
-             y="54.720952"
-             id="tspan9146">SNPs
+             x="486.8462"
+             y="55.365616"
+             id="tspan61">SNPs
 </tspan><tspan
-             x="489.23212"
-             y="105.7027"
-             id="tspan9148">n=63</tspan></text></g><g
+             x="492.76003"
+             y="106.34737"
+             id="tspan62">n=63</tspan></text></g><g
          id="g34"
          transform="translate(-3.1913314,-12.141255)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-2-7-9-1-1)"
@@ -12214,13 +12214,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0-7-6-2-3);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="470.00175"
-             y="54.720952"
-             id="tspan9150">(M)LST
+             x="470.32813"
+             y="55.365616"
+             id="tspan63">(M)LST
 </tspan><tspan
-             x="489.23212"
-             y="105.7027"
-             id="tspan9152">n=35</tspan></text></g><g
+             x="493.88163"
+             y="106.34737"
+             id="tspan64">n=35</tspan></text></g><g
          id="g25"
          transform="translate(-3.1913335,-8.0779837)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-5-6-1-6-8)"
@@ -12238,13 +12238,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-1-8-9-9-3);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="467.49354"
-             y="54.720952"
-             id="tspan9154">Isolate
+             x="471.51088"
+             y="55.365616"
+             id="tspan65">Isolate
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9156">n=535</tspan></text></g><g
+             x="482.44131"
+             y="106.34737"
+             id="tspan66">n=535</tspan></text></g><g
          id="g36"
          transform="translate(0.4051927,-6.8733747)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-6-7)"
@@ -12262,13 +12262,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-6-7);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="356.44107"
-             y="54.720952"
-             id="tspan9158">(Meta)genomics
+             x="363.25222"
+             y="55.365616"
+             id="tspan67">(Meta)genomics
 </tspan><tspan
-             x="443.02844"
-             y="105.7027"
-             id="tspan9160">n=1,404</tspan></text></g><g
+             x="448.73845"
+             y="106.34737"
+             id="tspan68">n=1,404</tspan></text></g><g
          id="g22-3-9"
          style="display:inline"
          transform="translate(100.83125,13.678338)"><path
@@ -12311,13 +12311,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0-6-3);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="377.25586"
-             y="54.720952"
-             id="tspan9162">Metabarcoding 
+             x="383.88343"
+             y="55.365616"
+             id="tspan69">Metabarcoding 
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9164">n=460</tspan></text></g><g
+             x="479.87188"
+             y="106.34737"
+             id="tspan70">n=460</tspan></text></g><g
          id="g39"
          transform="translate(0.40519105,-9.7238437)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-5-7-8)"
@@ -12335,13 +12335,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-1-82-3);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="387.32984"
-             y="54.720952"
-             id="tspan9166">Metagenomics
+             x="392.93779"
+             y="55.365616"
+             id="tspan71">Metagenomics
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9168">n=305</tspan></text></g><g
+             x="481.36051"
+             y="106.34737"
+             id="tspan72">n=305</tspan></text></g><g
          id="g22-3-16"
          style="display:inline"
          transform="translate(100.83125,71.680084)"><path
@@ -12409,13 +12409,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0-7-6-3);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="356.57763"
-             y="54.720952"
-             id="tspan9170">(Meta)proteomics
+             x="364.99977"
+             y="55.365616"
+             id="tspan73">(Meta)proteomics
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9172">n=131</tspan></text></g><g
+             x="484.88849"
+             y="106.34737"
+             id="tspan74">n=131</tspan></text></g><g
          id="g22-3-8"
          style="display:inline"
          transform="translate(100.83125,91.158494)"><path
@@ -12458,13 +12458,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-1-8-9-0);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="393.93707"
-             y="54.720952"
-             id="tspan9174">Metabolomics
+             x="398.64776"
+             y="55.365616"
+             id="tspan75">Metabolomics
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9176">n=125</tspan></text></g><g
+             x="483.54257"
+             y="106.34737"
+             id="tspan76">n=125</tspan></text></g><g
          id="g42"
          transform="translate(0.40519784,-15.620015)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-2-7-1-1-83)"
@@ -12482,13 +12482,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0-7-8-5-7);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="324.41834"
-             y="54.720952"
-             id="tspan9178">Metatranscriptomics
+             x="335.67515"
+             y="55.365616"
+             id="tspan77">Metatranscriptomics
 </tspan><tspan
-             x="489.23212"
-             y="105.7027"
-             id="tspan9180">n=39</tspan></text></g><g
+             x="493.16789"
+             y="106.34737"
+             id="tspan78">n=39</tspan></text></g><g
          id="g43"
          transform="translate(0.40519079,-16.198369)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-2-7-9-1-6)"
@@ -12506,13 +12506,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-0-7-6-2-6);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="370.40391"
-             y="54.720952"
-             id="tspan9182">Metaproteomics
+             x="377.62285"
+             y="55.365616"
+             id="tspan79">Metaproteomics
 </tspan><tspan
-             x="489.23212"
-             y="105.7027"
-             id="tspan9184">n=20</tspan></text></g><g
+             x="492.39301"
+             y="106.34737"
+             id="tspan80">n=20</tspan></text></g><g
          id="g22-3-70"
          style="display:inline"
          transform="translate(100.83125,149.1178)"><path
@@ -12555,13 +12555,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-1-8-9-9-04);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="451.91352"
-             y="54.720952"
-             id="tspan9186">Imaging
+             x="457.72544"
+             y="55.365616"
+             id="tspan81">Imaging
 </tspan><tspan
-             x="489.23212"
-             y="105.7027"
-             id="tspan9188">n=15</tspan></text></g><g
+             x="495.04404"
+             y="106.34737"
+             id="tspan82">n=15</tspan></text></g><g
          id="g38"
          transform="translate(0.4051901,-8.6032334)"><rect
            style="display:inline;fill:#a1cbff;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-7-9-5-8-37-9-5-6-1-6-8-2)"
@@ -12579,13 +12579,13 @@
            style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8-1-5-4-1-8-9-9-3-8);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
            x="0"
            y="0"><tspan
-             x="310.59207"
-             y="54.720952"
-             id="tspan9190">(Meta)transcriptomics
+             x="322.95014"
+             y="55.365616"
+             id="tspan83">(Meta)transcriptomics
 </tspan><tspan
-             x="477.56749"
-             y="105.7027"
-             id="tspan9192">n=354</tspan></text></g><g
+             x="482.23742"
+             y="106.34737"
+             id="tspan84">n=354</tspan></text></g><g
          id="g22-3-1"
          style="display:inline"
          transform="translate(100.83125,33.011071)"><path
@@ -12675,16 +12675,16 @@
          style="font-weight:bold;font-size:40.7854px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-8-1-8);display:inline;fill:#000000;fill-opacity:1;stroke-width:2.83465"
          x="0"
          y="0"><tspan
-           x="304.84125"
-           y="54.720952"
-           id="tspan9194">Major Galaxy Project </tspan><tspan
-           x="390.30713"
-           y="105.7027"
-           id="tspan9196">publications
+           x="315.97577"
+           y="55.365616"
+           id="tspan85">Major Galaxy Project </tspan><tspan
+           x="394.97702"
+           y="106.34737"
+           id="tspan86">publications
 </tspan><tspan
-           x="479.26004"
-           y="156.68445"
-           id="tspan9198">n=8</tspan></text><path
+           x="482.46169"
+           y="157.32912"
+           id="tspan87">n=8</tspan></text><path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-2-7-9-8-5-3-7)"
          d="m 180.13847,-22.232211 v 4.280884"
          id="path20-5-2-2-9-5-7-3"
@@ -12701,18 +12701,18 @@
          transform="matrix(0.73646058,0,0,0.73646058,-0.00490134,-13.618009)"><tspan
            x="105.37412"
            y="57.752728"
-           id="tspan9202"><tspan
+           id="tspan90"><tspan
    style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9200">Does the title or abstract contain at</tspan><tspan
+   id="tspan88">Does the title or abstract contain at</tspan> <tspan
+   style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
+   id="tspan89">least</tspan><tspan
    y="57.752728"
-   id="tspan9204"> </tspan></tspan><tspan
+   id="tspan91"> </tspan></tspan><tspan
            x="105.37412"
-           y="60.413942"
-           id="tspan9210"><tspan
-   style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9206">least</tspan> <tspan
-   style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9208">one of the following keywords?</tspan></tspan></text><g
+           y="60.442363"
+           id="tspan93"><tspan
+             style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
+             id="tspan92">one of the following keywords?</tspan></tspan></text><g
          id="g10"
          transform="translate(0.86106675,-5.4943034)"><rect
            style="display:inline;fill:#c2c2c2;fill-opacity:1;stroke-width:0.898703;filter:url(#filter84514)"
@@ -12732,9 +12732,9 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.667932,-0.26102388)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9212">bacteri, prokaryot<tspan
+             id="tspan94">bacteri, prokaryot<tspan
    y="57.752728"
-   id="tspan9214"> </tspan></tspan></text></g><g
+   id="tspan95"> </tspan></tspan></text></g><g
          id="g10-1"
          transform="translate(51.348092,-5.4943034)"
          style="display:inline"><rect
@@ -12755,22 +12755,22 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.687587,-2.4044124)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9216">otu, asv, taxonom,<tspan
+             id="tspan96">otu, asv, taxonom,<tspan
    y="57.752728"
-   id="tspan9218"> </tspan></tspan><tspan
+   id="tspan97"> </tspan></tspan><tspan
              x="105.37412"
-             y="60.413942"
-             id="tspan9220">community, communities,<tspan
-   y="60.413942"
-   id="tspan9222"> </tspan></tspan><tspan
+             y="60.413939"
+             id="tspan98">community, communities,<tspan
+   y="60.413939"
+   id="tspan99"> </tspan></tspan><tspan
              x="105.37412"
-             y="63.075155"
-             id="tspan9224">ecosystem, diversity,<tspan
-   y="63.075155"
-   id="tspan9226"> </tspan></tspan><tspan
+             y="63.075152"
+             id="tspan100">ecosystem, diversity,<tspan
+   y="63.075152"
+   id="tspan101"> </tspan></tspan><tspan
              x="105.37412"
-             y="65.736368"
-             id="tspan9228">ecology</tspan></text></g><text
+             y="65.736365"
+             id="tspan102">ecology</tspan></text></g><text
          xml:space="preserve"
          style="font-size:2.12897px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:41.8212;display:inline;fill:#000000;stroke-width:1.11125"
          x="105.37412"
@@ -12779,18 +12779,18 @@
          transform="matrix(0.73646058,0,0,0.73646058,50.515728,-13.618009)"><tspan
            x="105.37412"
            y="57.752728"
-           id="tspan9232"><tspan
+           id="tspan105"><tspan
    style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9230">Does the title or abstract contain at</tspan><tspan
+   id="tspan103">Does the title or abstract contain at</tspan> <tspan
+   style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
+   id="tspan104">least</tspan><tspan
    y="57.752728"
-   id="tspan9234"> </tspan></tspan><tspan
+   id="tspan106"> </tspan></tspan><tspan
            x="105.37412"
-           y="60.413942"
-           id="tspan9240"><tspan
-   style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9236">least</tspan> <tspan
-   style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9238">one of the following keywords?</tspan></tspan></text><text
+           y="60.442363"
+           id="tspan108"><tspan
+             style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
+             id="tspan107">one of the following keywords?</tspan></tspan></text><text
          xml:space="preserve"
          style="font-size:2.12897px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:35.4682;display:inline;fill:#000000;stroke-width:1.11125"
          x="105.37412"
@@ -12799,25 +12799,25 @@
          transform="matrix(0.73646058,0,0,0.73646058,23.955974,-87.3106)"><tspan
            x="105.37412"
            y="57.752728"
-           id="tspan9244"><tspan
+           id="tspan110"><tspan
    style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9242">Does the title or abstract contain</tspan><tspan
+   id="tspan109">Does the title or abstract contain</tspan><tspan
    y="57.752728"
-   id="tspan9246"> </tspan></tspan><tspan
+   id="tspan111"> </tspan></tspan><tspan
            x="105.37412"
-           y="60.413942"
-           id="tspan9252"><tspan
+           y="60.442363"
+           id="tspan114"><tspan
    style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9248">at</tspan> <tspan
+   id="tspan112">at</tspan> <tspan
    style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9250">least one of the following</tspan><tspan
-   y="60.413942"
-   id="tspan9254"> </tspan></tspan><tspan
+   id="tspan113">least one of the following</tspan><tspan
+   y="60.442363"
+   id="tspan115"> </tspan></tspan><tspan
            x="105.37412"
-           y="63.075155"
-           id="tspan9258"><tspan
+           y="63.131999"
+           id="tspan117"><tspan
              style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-             id="tspan9256">keywords?</tspan></tspan></text><text
+             id="tspan116">keywords?</tspan></tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.12897px;line-height:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Semi-Bold';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:39.6947;display:inline;fill:#000000;stroke-width:1.11125"
          x="105.37412"
@@ -12826,12 +12826,12 @@
          transform="matrix(0.73646058,0,0,0.73646058,23.975459,-80.896282)"><tspan
            x="105.37412"
            y="57.752728"
-           id="tspan9260">Galaxy Project major publication<tspan
+           id="tspan118">Galaxy Project major publication<tspan
    y="57.752728"
-   id="tspan9262"> </tspan></tspan><tspan
+   id="tspan119"> </tspan></tspan><tspan
            x="105.37412"
-           y="60.413942"
-           id="tspan9264">keywords (1)</tspan></text><text
+           y="60.413939"
+           id="tspan120">keywords (1)</tspan></text><text
          xml:space="preserve"
          style="font-size:2.12897px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:41.5187;display:inline;fill:#000000;stroke-width:1.11125"
          x="105.37412"
@@ -12840,16 +12840,16 @@
          transform="matrix(0.73646058,0,0,0.73646058,101.04117,-13.618009)"><tspan
            x="105.37412"
            y="57.752728"
-           id="tspan9268"><tspan
+           id="tspan122"><tspan
    style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9266">Does the title or abstract contain at</tspan><tspan
+   id="tspan121">Does the title or abstract contain at</tspan><tspan
    y="57.752728"
-   id="tspan9270"> </tspan></tspan><tspan
+   id="tspan123"> </tspan></tspan><tspan
            x="105.37412"
-           y="60.413942"
-           id="tspan9274"><tspan
+           y="60.442363"
+           id="tspan125"><tspan
              style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-             id="tspan9272">least one of the following keywords?</tspan></tspan></text><text
+             id="tspan124">least one of the following keywords?</tspan></tspan></text><text
          xml:space="preserve"
          style="font-size:2.12897px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:43.0313;display:inline;fill:#000000;stroke-width:1.11125"
          x="105.37412"
@@ -12858,18 +12858,18 @@
          transform="matrix(0.73646058,0,0,0.73646058,150.73269,-13.618009)"><tspan
            x="105.37412"
            y="57.752728"
-           id="tspan9278"><tspan
+           id="tspan128"><tspan
    style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9276">Does the title or abstract contain at</tspan><tspan
+   id="tspan126">Does the title or abstract contain at</tspan> <tspan
+   style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
+   id="tspan127">least</tspan><tspan
    y="57.752728"
-   id="tspan9280"> </tspan></tspan><tspan
+   id="tspan129"> </tspan></tspan><tspan
            x="105.37412"
-           y="60.413942"
-           id="tspan9286"><tspan
-   style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9282">least</tspan> <tspan
-   style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9284">one of the following keywords?</tspan></tspan></text><g
+           y="60.442363"
+           id="tspan131"><tspan
+             style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
+             id="tspan130">one of the following keywords?</tspan></tspan></text><g
          id="g14"
          transform="translate(69.306676,0.02239214)"><rect
            style="display:inline;fill:#c2c2c2;fill-opacity:1;stroke-width:1.45091;filter:url(#filter82786)"
@@ -12889,25 +12889,25 @@
            transform="matrix(0.73646058,0,0,0.73646058,32.422234,-52.138866)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9290"><tspan
+             id="tspan133"><tspan
    style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9288">Does the title or abstract contain</tspan><tspan
+   id="tspan132">Does the title or abstract contain</tspan><tspan
    y="57.752728"
-   id="tspan9292"> </tspan></tspan><tspan
+   id="tspan134"> </tspan></tspan><tspan
              x="105.37412"
-             y="60.413942"
-             id="tspan9298"><tspan
+             y="60.442363"
+             id="tspan137"><tspan
    style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9294">at</tspan> <tspan
+   id="tspan135">at</tspan> <tspan
    style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9296">least one of the following</tspan><tspan
-   y="60.413942"
-   id="tspan9300"> </tspan></tspan><tspan
+   id="tspan136">least one of the following</tspan><tspan
+   y="60.442363"
+   id="tspan138"> </tspan></tspan><tspan
              x="105.37412"
-             y="63.075155"
-             id="tspan9304"><tspan
+             y="63.131999"
+             id="tspan140"><tspan
                style="font-weight:bold;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
-               id="tspan9302">keywords?</tspan></tspan></text><text
+               id="tspan139">keywords?</tspan></tspan></text><text
            xml:space="preserve"
            style="font-size:2.12897px;line-height:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:52.4007;display:inline;fill:#000000;stroke-width:1.11125"
            x="105.37412"
@@ -12916,9 +12916,9 @@
            transform="matrix(0.73646058,0,0,0.73646058,33.595328,-45.870155)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9308"><tspan
+             id="tspan142"><tspan
                style="font-weight:600;font-family:Raleway;-inkscape-font-specification:'Raleway Semi-Bold'"
-               id="tspan9306">Microbiology-related citation keywords (2)</tspan></tspan></text></g><text
+               id="tspan141">Microbiology-related citation keywords (2)</tspan></tspan></text></g><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.74383px;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start;white-space:pre;inline-size:39.3851;display:inline;fill:#000000;stroke-width:1.11111"
          x="42.451725"
@@ -12927,21 +12927,21 @@
          transform="matrix(0.73646058,0,0,0.73646058,46.101047,-15.206889)"><tspan
            x="42.451725"
            y="109.59203"
-           id="tspan9312"><tspan
+           id="tspan144"><tspan
              style="text-align:center;text-anchor:middle"
-             id="tspan9310">Ecosystem Dynamics 
+             id="tspan143">Ecosystem Dynamics 
 </tspan></tspan><tspan
            x="42.451725"
            y="113.02182"
-           id="tspan9316"><tspan
+           id="tspan146"><tspan
              style="text-align:center;text-anchor:middle"
-             id="tspan9314">&amp; Biodiversity
+             id="tspan145">&amp; Biodiversity
 </tspan></tspan><tspan
            x="42.451725"
            y="116.45161"
-           id="tspan9320"><tspan
+           id="tspan148"><tspan
              style="text-align:center;text-anchor:middle"
-             id="tspan9318">n=1,705</tspan></tspan></text><text
+             id="tspan147">n=1,705</tspan></tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.35185px;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle;white-space:pre;inline-size:39.3851;display:inline;fill:#000000;stroke-width:1.11111"
          x="42.451725"
@@ -12950,15 +12950,15 @@
          transform="matrix(0.73646058,0,0,0.73646058,60.602991,-34.646295)"><tspan
            x="42.451725"
            y="109.59203"
-           id="tspan9324"><tspan
+           id="tspan150"><tspan
              style="font-weight:bold;font-size:2.74383px;-inkscape-font-specification:'Raleway Bold'"
-             id="tspan9322">Health &amp; Disease
+             id="tspan149">Health &amp; Disease
 </tspan></tspan><tspan
            x="42.451725"
            y="113.02182"
-           id="tspan9328"><tspan
+           id="tspan152"><tspan
    style="font-weight:bold;font-size:2.74383px;-inkscape-font-specification:'Raleway Bold'"
-   id="tspan9326">n=1,945</tspan>
+   id="tspan151">n=1,945</tspan>
 </tspan></text><rect
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.177507;stroke-dasharray:0.177507, 0.177507;stroke-dashoffset:0;stroke-opacity:1"
          id="rect30-9-9-4-9-3-9-5-9-7-4-9-6-2"
@@ -13159,25 +13159,20 @@
          transform="matrix(0.73646058,0,0,0.73646058,0.22250178,11.978419)"><tspan
            x="105.37412"
            y="57.752728"
-           id="tspan9332"><tspan
+           id="tspan155"><tspan
    style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-   id="tspan9330">Dynamics &amp;</tspan><tspan
+   id="tspan153">Dynamics &amp;</tspan> <tspan
+   style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
+   id="tspan154">Biodiversity</tspan><tspan
    y="57.752728"
-   id="tspan9334"> </tspan></tspan><tspan
+   id="tspan156"> </tspan></tspan><tspan
            x="105.37412"
-           y="60.413942"
-           id="tspan9340"><tspan
+           y="60.413939"
+           id="tspan159"><tspan
    style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-   id="tspan9336">Biodiversity</tspan> <tspan
+   id="tspan157">keywords</tspan> <tspan
    style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-   id="tspan9338">keywords</tspan><tspan
-   y="60.413942"
-   id="tspan9342"> </tspan></tspan><tspan
-           x="105.37412"
-           y="63.075155"
-           id="tspan9346"><tspan
-             style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-             id="tspan9344">(4)</tspan></tspan></text><rect
+   id="tspan158">(4)</tspan></tspan></text><rect
          style="display:inline;fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-1-1-9-36)"
          id="rect2-94-7-3-6-6-7-3-92"
          width="113.32522"
@@ -13206,16 +13201,16 @@
            transform="matrix(0.73646058,0,0,0.73646058,-0.72510198,-0.59642887)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9350"><tspan
+             id="tspan161"><tspan
    style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-   id="tspan9348">Health &amp; Disease</tspan><tspan
+   id="tspan160">Health &amp; Disease</tspan><tspan
    y="57.752728"
-   id="tspan9352"> </tspan></tspan><tspan
+   id="tspan162"> </tspan></tspan><tspan
              x="105.37412"
-             y="60.413942"
-             id="tspan9356"><tspan
+             y="60.413939"
+             id="tspan164"><tspan
                style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-               id="tspan9354">keywords (3)</tspan></tspan></text></g><g
+               id="tspan163">keywords (3)</tspan></tspan></text></g><g
          id="g11"
          transform="translate(1.0879893,-5.2388374)"><rect
            style="display:inline;fill:#c2c2c2;fill-opacity:1;stroke-width:0.898703;filter:url(#filter84946)"
@@ -13235,9 +13230,9 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.623171,19.061331)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9360"><tspan
+             id="tspan166"><tspan
                style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-               id="tspan9358">pathogen</tspan></tspan></text></g><g
+               id="tspan165">pathogen</tspan></tspan></text></g><g
          id="g9"
          transform="translate(43.849214,-17.039901)"><rect
            style="display:inline;fill:#c2c2c2;fill-opacity:1;stroke-width:0.898703;filter:url(#filter84946-4)"
@@ -13257,30 +13252,25 @@
            transform="matrix(0.73646058,0,0,0.73646058,6.6865854,47.721124)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9364"><tspan
+             id="tspan168"><tspan
    style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-   id="tspan9362">microbiome, microbiota,</tspan><tspan
+   id="tspan167">microbiome, microbiota,</tspan><tspan
    y="57.752728"
-   id="tspan9366">  </tspan></tspan><tspan
+   id="tspan169">  </tspan></tspan><tspan
              x="105.37412"
-             y="60.413942"
-             id="tspan9370"><tspan
+             y="60.413939"
+             id="tspan172"><tspan
    style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-   id="tspan9368">flora, ecology,</tspan><tspan
-   y="60.413942"
-   id="tspan9372"> </tspan></tspan><tspan
-             x="105.37412"
-             y="63.075155"
-             id="tspan9376"><tspan
+   id="tspan170">flora, ecology,</tspan> <tspan
    style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-   id="tspan9374">community,</tspan><tspan
-   y="63.075155"
-   id="tspan9378"> </tspan></tspan><tspan
+   id="tspan171">community,</tspan><tspan
+   y="60.413939"
+   id="tspan173"> </tspan></tspan><tspan
              x="105.37412"
-             y="65.736368"
-             id="tspan9382"><tspan
+             y="63.075152"
+             id="tspan175"><tspan
                style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-               id="tspan9380">communities</tspan></tspan></text></g><g
+               id="tspan174">communities</tspan></tspan></text></g><g
          id="g9-7"
          transform="translate(43.849214,2.2910615)"
          style="display:inline"><rect
@@ -13301,9 +13291,9 @@
            transform="matrix(0.73646058,0,0,0.73646058,6.7324672,49.957357)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9386"><tspan
+             id="tspan177"><tspan
                style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-               id="tspan9384">virus, phage</tspan></tspan></text></g><g
+               id="tspan176">virus, phage</tspan></tspan></text></g><g
          id="g9-7-2"
          transform="translate(43.849214,21.622032)"
          style="display:inline"><rect
@@ -13324,9 +13314,9 @@
            transform="matrix(0.73646058,0,0,0.73646058,6.7324672,49.957357)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9390"><tspan
+             id="tspan179"><tspan
                style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-               id="tspan9388">eukaryot</tspan></tspan></text></g><g
+               id="tspan178">eukaryot</tspan></tspan></text></g><g
          id="g9-7-2-2"
          transform="translate(43.849214,40.952992)"
          style="display:inline"><rect
@@ -13347,9 +13337,9 @@
            transform="matrix(0.73646058,0,0,0.73646058,6.7324672,49.957357)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9394"><tspan
+             id="tspan181"><tspan
                style="font-weight:600;-inkscape-font-specification:'Raleway Semi-Bold'"
-               id="tspan9392">archae</tspan></tspan></text></g><path
+               id="tspan180">archae</tspan></tspan></text></g><path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-2-7-9-6-5-7-2-6-5-1-3-7-8)"
          d="m 159.34338,171.7034 h 2.44565"
          id="path20-5-2-2-6-9-6-9-8-4-5-8-9-9"
@@ -13693,7 +13683,7 @@
              transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
                x="105.37412"
                y="57.752728"
-               id="tspan9396">mlst, locus sequence typing</tspan></text></g></g><g
+               id="tspan182">mlst, locus sequence typing</tspan></text></g></g><g
          id="layer3-7-9-9"
          transform="translate(69.002923,55.791529)"
          style="display:inline"><g
@@ -13717,12 +13707,12 @@
              transform="matrix(0.73646058,0,0,0.73646058,49.740894,-1.2016769)"><tspan
                x="105.37412"
                y="57.752728"
-               id="tspan9398">snp, single-nucleotide<tspan
+               id="tspan183">snp, single-nucleotide<tspan
    y="57.752728"
-   id="tspan9400"> </tspan></tspan><tspan
+   id="tspan184"> </tspan></tspan><tspan
                x="105.37412"
-               y="60.413942"
-               id="tspan9402">polymorphism</tspan></text></g></g><g
+               y="60.413939"
+               id="tspan185">polymorphism</tspan></text></g></g><g
          id="g21-9"
          style="display:inline"
          transform="translate(47.887163,45.112289)"><rect
@@ -13743,12 +13733,12 @@
            transform="matrix(0.73646058,0,0,0.73646058,53.201823,122.77718)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9404">gene identification,<tspan
+             id="tspan186">gene identification,<tspan
    y="57.752728"
-   id="tspan9406"> </tspan></tspan><tspan
+   id="tspan187"> </tspan></tspan><tspan
              x="105.37412"
-             y="60.413942"
-             id="tspan9408">biomarker</tspan></text></g><g
+             y="60.413939"
+             id="tspan188">biomarker</tspan></text></g><g
          id="layer3-7-9"
          transform="translate(69.002923,17.106609)"><g
            id="g10-1-3-6-2"
@@ -13771,7 +13761,7 @@
              transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
                x="105.37412"
                y="57.752728"
-               id="tspan9410">annotation</tspan></text></g></g><g
+               id="tspan189">annotation</tspan></text></g></g><g
          id="g20"
          transform="translate(51.708921,-18.31654)"><rect
            style="display:inline;fill:#c2c2c2;fill-opacity:1;stroke-width:0.898703;filter:url(#filter84514-1-1-9-2)"
@@ -13791,15 +13781,15 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.380065,146.50002)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9412">mags, metagenome-</tspan><tspan
+             id="tspan190">mags, metagenome-</tspan><tspan
              x="105.37412"
-             y="60.413942"
-             id="tspan9414">assembled genome,<tspan
-   y="60.413942"
-   id="tspan9416"> </tspan></tspan><tspan
+             y="60.413939"
+             id="tspan191">assembled genome,<tspan
+   y="60.413939"
+   id="tspan192"> </tspan></tspan><tspan
              x="105.37412"
-             y="63.075155"
-             id="tspan9418">assembly</tspan></text></g><g
+             y="63.075152"
+             id="tspan193">assembly</tspan></text></g><g
          id="g10-1-3-3"
          transform="translate(51.348092,110.42755)"
          style="display:inline"><rect
@@ -13820,7 +13810,7 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9420">comparative</tspan></text></g><g
+             id="tspan194">comparative</tspan></text></g><g
          id="g10-1-3-1-9"
          transform="translate(51.348092,91.160519)"
          style="display:inline"><rect
@@ -13841,7 +13831,7 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9422">variant</tspan></text></g><g
+             id="tspan195">variant</tspan></text></g><g
          id="g10-1-3-1-9-4"
          transform="translate(101.57939,-5.4943034)"
          style="display:inline"><rect
@@ -13862,7 +13852,7 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9424">genom</tspan></text></g><g
+             id="tspan196">genom</tspan></text></g><g
          id="g10-1-3-1-9-4-2"
          transform="translate(101.57939,33.167626)"
          style="display:inline"><rect
@@ -13883,7 +13873,7 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9426">transcriptom</tspan></text></g><g
+             id="tspan197">transcriptom</tspan></text></g><g
          id="g10-1-3-1-9-4-2-6"
          transform="translate(101.57939,71.829559)"
          style="display:inline"><rect
@@ -13904,12 +13894,12 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.740894,-1.1196508)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9428">proteom, mass<tspan
+             id="tspan198">proteom, mass<tspan
    y="57.752728"
-   id="tspan9430"> </tspan></tspan><tspan
+   id="tspan199"> </tspan></tspan><tspan
              x="105.37412"
-             y="60.413942"
-             id="tspan9432">spectrometry</tspan></text></g><g
+             y="60.413939"
+             id="tspan200">spectrometry</tspan></text></g><g
          id="g10-1-3-1-9-4-2-2"
          transform="translate(101.57939,52.498589)"
          style="display:inline"><rect
@@ -13930,7 +13920,7 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9434">metagenom</tspan></text></g><g
+             id="tspan201">metagenom</tspan></text></g><g
          id="g10-1-3-1-9-4-2-2-0-5"
          transform="translate(101.57939,149.1212)"
          style="display:inline"><rect
@@ -13951,7 +13941,7 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9436">imaging</tspan></text></g><g
+             id="tspan202">imaging</tspan></text></g><g
          id="g10-1-3-1-9-4-8"
          transform="translate(101.57939,13.836661)"
          style="display:inline"><rect
@@ -13972,17 +13962,17 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.587198,-1.5807382)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9438">metabarcod, 16s, 16 s,<tspan
+             id="tspan203">metabarcod, 16s, 16 s,<tspan
    y="57.752728"
-   id="tspan9440"> </tspan></tspan><tspan
+   id="tspan204"> </tspan></tspan><tspan
              x="105.37412"
-             y="60.413942"
-             id="tspan9442">18s, amplicon,<tspan
-   y="60.413942"
-   id="tspan9444"> </tspan></tspan><tspan
+             y="60.413939"
+             id="tspan205">18s, amplicon,<tspan
+   y="60.413939"
+   id="tspan206"> </tspan></tspan><tspan
              x="105.37412"
-             y="63.075155"
-             id="tspan9446">metataxonom</tspan></text></g><g
+             y="63.075152"
+             id="tspan207">metataxonom</tspan></text></g><g
          id="g10-1-3-1"
          transform="translate(51.348092,71.829559)"
          style="display:inline"><rect
@@ -14003,7 +13993,7 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9448">interaction</tspan></text></g><g
+             id="tspan208">interaction</tspan></text></g><g
          id="layer3-7"
          transform="translate(69.002923,-79.515971)"><g
            id="g10-1-3-6"
@@ -14026,12 +14016,7 @@
              transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
                x="105.37412"
                y="57.752728"
-               id="tspan9450">antimicrobial, resistan,<tspan
-   y="57.752728"
-   id="tspan9452"> </tspan></tspan><tspan
-               x="105.37412"
-               y="60.413942"
-               id="tspan9454">amr</tspan></text></g></g><g
+               id="tspan209">antimicrobial, resistan, amr</tspan></text></g></g><g
          id="g21"
          transform="translate(47.887163,-90.241294)"><rect
            style="display:inline;fill:#c2c2c2;fill-opacity:1;stroke-width:0.898703;filter:url(#filter84514-1-1-9)"
@@ -14051,7 +14036,7 @@
            transform="matrix(0.73646058,0,0,0.73646058,53.201823,123.36514)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9456">isolate</tspan></text></g><g
+             id="tspan210">isolate</tspan></text></g><g
          id="g10-1-3"
          transform="translate(51.348092,13.836661)"
          style="display:inline"><rect
@@ -14072,7 +14057,7 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9458">function</tspan></text></g><g
+             id="tspan211">function</tspan></text></g><g
          id="g22-3-96"
          style="display:inline"
          transform="translate(100.83125,110.21446)"><path
@@ -14143,7 +14128,7 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9460">metaproteom</tspan></text></g><g
+             id="tspan212">metaproteom</tspan></text></g><g
          id="g10-1-3-1-9-4-2-2-0"
          transform="translate(101.57939,110.42755)"
          style="display:inline"><rect
@@ -14164,7 +14149,7 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9462">metatranscriptom</tspan></text></g><g
+             id="tspan213">metatranscriptom</tspan></text></g><g
          id="g10-1-3-1-9-4-2-2-7"
          transform="translate(101.57939,91.160519)"
          style="display:inline"><rect
@@ -14185,7 +14170,7 @@
            transform="matrix(0.73646058,0,0,0.73646058,49.740894,-0.04378023)"><tspan
              x="105.37412"
              y="57.752728"
-             id="tspan9464">metabolom, metabolite</tspan></text></g><rect
+             id="tspan214">metabolom, metabolite</tspan></text></g><rect
          style="display:inline;fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-width:0.750001;filter:url(#filter3-5-4-94-1-1-1-9-3)"
          id="rect2-94-7-3-6-6-7-3-6"
          width="113.32522"
@@ -14203,9 +14188,9 @@
          transform="matrix(0.73646058,0,0,0.73646058,168.5027,-56.040791)"><tspan
            x="42.451725"
            y="109.59203"
-           id="tspan9468"><tspan
+           id="tspan216"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan9466">Method(s)</tspan>
+   id="tspan215">Method(s)</tspan>
 </tspan></text><path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-2-7-9-8-5-3-1)"
          d="m 209.75527,17.561454 v 3.556798"
@@ -14228,11 +14213,11 @@
          transform="matrix(0.73646058,0,0,0.73646058,65.791216,-55.781946)"><tspan
            x="42.451725"
            y="109.59203"
-           id="tspan9474"><tspan
+           id="tspan219"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan9470">Targeted </tspan><tspan
+   id="tspan217">Targeted </tspan><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan9472">organism(s)</tspan>
+   id="tspan218">organism(s)</tspan>
 </tspan></text><path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-2-7-9-8-5-3-3)"
          d="m 108.93149,17.561454 v 3.556798"
@@ -14246,9 +14231,9 @@
          transform="matrix(0.73646058,0,0,0.73646058,17.382669,-55.656116)"><tspan
            x="42.451725"
            y="109.59203"
-           id="tspan9478"><tspan
+           id="tspan221"><tspan
    style="font-size:2.74383px;text-align:center;text-anchor:middle"
-   id="tspan9476">Topic</tspan>
+   id="tspan220">Topic</tspan>
 </tspan></text><path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-2-7-9-8-5-3)"
          d="m 58.519606,17.561454 v 3.556798"
