@@ -85,6 +85,6 @@ This section provides easy access to the MGL paper's figures, extended data, and
 - [`Supplementary Table 11`](docs/supplementary/supplementary_table_11.tsv): Manual binary document-level validation of microbiology-related citation classification.
 - [`Supplementary Table 12`](docs/supplementary/supplementary_table_12.tsv): Manual multi-label keyword-level validation of automated microbiology citation classification.
 - [`Supplementary Method 1`](docs/supplementary/supplementary_method_1.pdf): List of survey questions shared with the microbiology research community via a Google Form between March and September 2023.
-- [`Supplementary Method 2`](docs/supplementary/supplementary_method_2.pdf): microGalaxy Community Roadmap (2026–2030), outlining the strategic priorities, goals, and planned developments for the Microbiology Galaxy Lab (MGL).
-- [`Supplementary Method 3`](docs/supplementary/supplementary_method_3.pdf): Template to collect use cases from survey participants who expressed interest in contributing to the planned manuscript.
-- [`Supplementary Method 4`](docs/supplementary/supplementary_method_4.pdf): Manual validation framework for automated citation classification.
+- [`Supplementary Method 2`](docs/supplementary/supplementary_method_2.pdf): Template to collect use cases from survey participants who expressed interest in contributing to the planned manuscript.
+- [`Supplementary Note 1`](docs/supplementary/supplementary_note_1.pdf): Manual validation framework for automated citation classification.
+- [`Supplementary Note 2`](docs/supplementary/supplementary_note_2.pdf): microGalaxy Community Roadmap (2026–2030), outlining the strategic priorities, goals, and planned developments for the Microbiology Galaxy Lab (MGL).
