@@ -73,17 +73,17 @@ This section provides easy access to the MGL paper's figures, extended data, and
 - [`Supplementary Figure 4`](docs/supplementary/supplementary_figure_4.png): Usage of microbiology-related tool suites across training materials.
 - [`Supplementary Figure 5`](docs/supplementary/supplementary_figure_5.png): Flowchart illustrating the process to select and annotate the microbiology-related publications citing the Galaxy Project's major publication.
 - [`Supplementary Data 1`](https://docs.google.com/spreadsheets/d/e/2PACX-1vRLzfV-VrXUya3OTBkHvBKYdj00h_56TTBs2AYZlCs9phKWpMTRVd5r8Rgt3cHZ9x4SeDz_GzRPSfxm/pubhtml): Features and capabilities of 45 existing user-friendly microbiological data analysis platforms (non-exhaustive list).
-- [`Supplementary Data 2`](docs/supplementary/supplementary_table_2.tsv): Anonymous results from the microbiology research community survey conducted between March and September 2023.
-- [`Supplementary Data 3`](docs/supplementary/supplementary_table_3.tsv): Publications citing the Galaxy Project from Google Scholar.
-- [`Supplementary Data 4`](docs/supplementary/supplementary_table_4.tsv): Publications citing the Galaxy Project from Google Scholar classified as microbiology-related citations. 
-- [`Supplementary Data 5`](docs/supplementary/supplementary_table_5.tsv): Overview of the 319 microbiology-related tool suites available in the Microbiology Galaxy Lab (MGL).
-- [`Supplementary Data 6`](docs/supplementary/supplementary_table_6.tsv): Tool suites corresponding to numbers on Figure 4.
-- [`Supplementary Data 7`](docs/supplementary/supplementary_table_7.tsv): Comprehensive list of the 117 microbiology-related workflows available in the Microbiology Galaxy Lab (MGL).
-- [`Supplementary Data 8`](docs/supplementary/supplementary_table_8.tsv): Summary of use case submissions collected from survey participants and other highlighted use cases.
-- [`Supplementary Data 9`](docs/supplementary/supplementary_table_9.tsv): Comprehensive list of tutorials from the Galaxy Training Network (GTN) dedicated to microbiological data analysis.
-- [`Supplementary Data 10`](docs/supplementary/supplementary_table_10.tsv): Overview of microbiology-related training events conducted between 2019 and 2025.
-- [`Supplementary Data 11`](docs/supplementary/supplementary_table_11.tsv): Manual binary document-level validation of microbiology-related citation classification.
-- [`Supplementary Data 12`](docs/supplementary/supplementary_table_12.tsv): Manual multi-label keyword-level validation of automated microbiology citation classification.
+- [`Supplementary Data 2`](docs/supplementary/supplementary_data_2.tsv): Anonymous results from the microbiology research community survey conducted between March and September 2023.
+- [`Supplementary Data 3`](docs/supplementary/supplementary_data_3.tsv): Publications citing the Galaxy Project from Google Scholar.
+- [`Supplementary Data 4`](docs/supplementary/supplementary_data_4.tsv): Publications citing the Galaxy Project from Google Scholar classified as microbiology-related citations. 
+- [`Supplementary Data 5`](docs/supplementary/supplementary_data_5.tsv): Overview of the 319 microbiology-related tool suites available in the Microbiology Galaxy Lab (MGL).
+- [`Supplementary Data 6`](docs/supplementary/supplementary_data_6.tsv): Tool suites corresponding to numbers on Figure 4.
+- [`Supplementary Data 7`](docs/supplementary/supplementary_data_7.tsv): Comprehensive list of the 117 microbiology-related workflows available in the Microbiology Galaxy Lab (MGL).
+- [`Supplementary Data 8`](docs/supplementary/supplementary_data_8.tsv): Summary of use case submissions collected from survey participants and other highlighted use cases.
+- [`Supplementary Data 9`](docs/supplementary/supplementary_data_9.tsv): Comprehensive list of tutorials from the Galaxy Training Network (GTN) dedicated to microbiological data analysis.
+- [`Supplementary Data 10`](docs/supplementary/supplementary_data_10.tsv): Overview of microbiology-related training events conducted between 2019 and 2025.
+- [`Supplementary Data 11`](docs/supplementary/supplementary_data_11.tsv): Manual binary document-level validation of microbiology-related citation classification.
+- [`Supplementary Data 12`](docs/supplementary/supplementary_data_12.tsv): Manual multi-label keyword-level validation of automated microbiology citation classification.
 - [`Supplementary Method 1`](docs/supplementary/supplementary_method_1.pdf): List of survey questions shared with the microbiology research community via a Google Form between March and September 2023.
 - [`Supplementary Method 2`](docs/supplementary/supplementary_method_2.pdf): Template to collect use cases from survey participants who expressed interest in contributing to the planned manuscript.
 - [`Supplementary Note 1`](docs/supplementary/supplementary_note_1.pdf): Manual validation framework for automated citation classification.
