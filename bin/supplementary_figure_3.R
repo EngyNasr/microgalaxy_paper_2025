@@ -15,8 +15,8 @@ suppressWarnings({
   })
 
 
-  workflows_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_7.tsv"
-  all_tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_5.tsv"
+  workflows_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_data_7.tsv"
+  all_tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_data_5.tsv"
 
   workflows_dt <- workflows_url |> fread(sep = "\t")
   all_tools_dt <- all_tools_url |> fread()

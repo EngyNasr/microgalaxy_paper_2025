@@ -18,8 +18,8 @@ suppressWarnings({
   })
 
 
-  microGalaxy_tutorials_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_9.tsv"
-  microGalaxy_tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_table_5.tsv"
+  microGalaxy_tutorials_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_data_9.tsv"
+  microGalaxy_tools_url <- "https://raw.githubusercontent.com/usegalaxy-eu/microgalaxy_paper_2025/refs/heads/main/docs/supplementary/supplementary_data_5.tsv"
 
   microGalaxy_tutorials_dt <- microGalaxy_tutorials_url |> fread()
   microGalaxy_tools_dt <- microGalaxy_tools_url |> fread()
